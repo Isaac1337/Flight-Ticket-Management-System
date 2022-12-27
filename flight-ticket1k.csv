@@ -1,0 +1,991 @@
+companyName,flightNumber, country-of-origin,country-of-destination,stopover,price,time-of-departure,time-of-arrival,date
+LATAM Airlines,66,Antarctica,Kazakhstan,1,1112,17:23,16:13,10-Oct
+TAME,22,Morocco,Lebanon,0,540,10:53,24:05:00,17-May
+Copa Airlines,50,Bahrain,Ghana,2,730,9:34,13:17,21-Feb
+Copa Airlines,119,Austria,Falkland Islands (Malvinas),3,477,12:11,1:13,17-Feb
+TAME,110,Niger,Macao,3,452,23:27,16:53,10-Oct
+Viva Air Colombia,41,Dominica,Cameroon,2,1332,1:07,1:06,26-Sep
+Insel Air,24,Portugal,Mongolia,3,953,5:36,4:13,11-Jun
+Aerolineas Argentinas Airlines,101,Argentina,South Africa,0,523,20:23,9:38,25-Oct
+Air Canada,20,Philippines,Kiribati,0,1711,2:33,3:55,8-Sep
+Air Canada,90,South Sudan,Ethiopia,3,1947,2:17,13:17,12-Nov
+Viva Air Colombia,30,Tuvalu,Puerto Rico,1,1000,10:31,22:25,5-Apr
+Gol Transportes Aéreos,133,Chad,Sierra Leone,2,1260,17:29,16:57,7-Apr
+Avianca Airlines,20,South Africa,Tanzania United Republic of,3,966,21:41,21:02,23-Oct
+Alaska Airlines,55,Palau,Tonga,3,642,19:37,15:23,22-Aug
+Línea Aérea Amaszonas,62,Seychelles,Samoa,3,1075,18:36,15:10,20-May
+Boliviana de Aviación,79,Albania,Liechtenstein,1,1334,9:17,12:00,1-Dec
+American Airlines,67,San Marino,Monaco,2,1311,19:07,4:37,1-Sep
+Copa Airlines,44,Martinique,Eritrea,1,293,8:36,23:08,25-Apr
+LATAM Airlines,46,Cocos (Keeling) Islands,Liberia,0,1638,12:15,7:22,28-Dec
+Alaska Airlines,72,Guadeloupe,South Georgia and the South Sandwich Islands,2,299,24:31:00,23:59,27-Dec
+LATAM Airlines,116,Nicaragua,Switzerland,1,560,10:26,18:12,5-Apr
+Air Canada,150,Romania,Brazil,2,1391,5:39,12:34,6-Sep
+TAME,46,Aruba,Monaco,2,1745,1:50,16:26,9-Aug
+Alaska Airlines,141,United Arab Emirates,Isle of Man,2,1875,6:40,16:22,26-Aug
+Avianca Airlines,127,Faroe Islands,Poland,1,604,21:15,3:10,10-Jan
+Copa Airlines,6,Grenada,Tokelau,2,650,8:25,13:46,1-Jan
+Air Canada,38,Northern Mariana Islands,Sao Tome and Principe,3,548,3:34,2:44,14-May
+American Airlines,139,Sudan,Jamaica,2,1667,7:48,24:06:00,14-Jun
+Viva Air Colombia,88,Bosnia and Herzegovina,Canada,1,1254,21:50,5:17,20-Oct
+Conviasa,108,Georgia,Saint Martin (French part),2,1545,3:05,5:59,3-Oct
+Gol Transportes Aéreos,103,Saint Barthélemy,Vanuatu,1,1142,14:46,2:54,11-Feb
+Aerolineas Argentinas Airlines,115,Bangladesh,Liberia,0,1002,13:41,17:03,7-May
+Air Canada,71,Cape Verde,Namibia,1,1998,18:23,5:17,27-Feb
+Gol Transportes Aéreos,82,Vanuatu,Iran Islamic Republic of,0,1963,7:09,14:21,21-Sep
+Viva Air Colombia,39,British Indian Ocean Territory,Costa Rica,3,1521,17:18,9:12,7-Apr
+Boliviana de Aviación,20,Kazakhstan,Bolivia Plurinational State of,0,1728,15:49,13:55,18-Sep
+Azul Brazilian Airlines,12,Canada,South Georgia and the South Sandwich Islands,1,1763,24:02:00,6:31,4-Oct
+Línea Aérea Amaszonas,143,Afghanistan,Pakistan,3,304,19:21,9:07,18-Apr
+Copa Airlines,27,British Indian Ocean Territory,Christmas Island,0,460,0:59,15:53,27-Jul
+Aerolineas Argentinas Airlines,31,Tonga,Ireland,0,1900,16:43,5:57,25-Jan
+LATAM Airlines,39,Saudi Arabia,Lao People's Democratic Republic,0,315,9:10,22:49,12-Jun
+American Airlines,133,Mauritius,Libya,3,1693,6:12,12:15,3-Jun
+Azul Brazilian Airlines,113,United States,Kyrgyzstan,0,305,19:28,21:08,16-Dec
+Gol Transportes Aéreos,24,Latvia,Paraguay,0,1607,11:37,9:58,18-Jun
+Aeromexico,118,Marshall Islands,Cape Verde,3,793,11:14,10:17,4-Sep
+Aeromexico,12,Puerto Rico,Malawi,1,1853,1:41,15:15,28-Dec
+Azul Brazilian Airlines,131,Spain,Kenya,1,770,3:00,20:17,6-May
+Air Canada,121,Azerbaijan,Gabon,1,560,21:14,13:09,12-Jul
+Copa Airlines,116,Equatorial Guinea,Dominica,3,1698,4:13,17:59,20-May
+Aeromexico,75,Luxembourg,India,2,1291,4:32,12:28,28-Sep
+Gol Transportes Aéreos,99,Belarus,Jamaica,3,672,2:24,15:49,25-Nov
+Viva Air Colombia,20,Bulgaria,Haiti,1,1429,12:06,2:38,4-Apr
+Aeromexico,150,Lao People's Democratic Republic,Greece,0,1504,18:41,20:28,24-Feb
+Aerolineas Argentinas Airlines,75,Taiwan Province of China,Canada,0,1597,21:38,20:50,1-Feb
+Copa Airlines,114,Marshall Islands,Tonga,0,563,24:59:00,0:32,2-Jun
+Viva Air Colombia,70,Philippines,Nigeria,3,640,24:02:00,20:06,12-Jan
+Conviasa,27,Marshall Islands,Burundi,3,1089,23:24,15:02,14-Jan
+TAME,21,Mauritius,El Salvador,2,1285,5:13,16:17,6-Mar
+Línea Aérea Amaszonas,50,Sudan,Mayotte,0,1630,10:24,19:35,24-Feb
+Conviasa,74,Antarctica,Faroe Islands,1,854,24:09:00,16:44,19-Feb
+TAME,101,Brunei Darussalam,Slovenia,3,1309,1:28,9:59,30-Dec
+Línea Aérea Amaszonas,41,Niue,Andorra,3,562,19:30,9:26,19-Jan
+Conviasa,40,Heard Island and McDonald Islands,Central African Republic,1,629,3:02,3:25,17-Jul
+Aerolineas Argentinas Airlines,90,Senegal,Ukraine,0,1477,16:26,16:59,28-Oct
+American Airlines,15,Cyprus,Thailand,0,848,7:33,17:43,28-Feb
+Gol Transportes Aéreos,144,Paraguay,Syrian Arab Republic,3,1551,15:24,23:48,26-Oct
+American Airlines,110,Hungary,Tunisia,3,364,0:49,11:54,12-Aug
+Gol Transportes Aéreos,69,Réunion,Liechtenstein,3,703,8:33,14:32,27-Apr
+Línea Aérea Amaszonas,5,Sri Lanka,Costa Rica,0,1007,6:32,13:23,29-May
+Air Canada,48,Indonesia,Lithuania,0,1884,15:48,20:27,23-Jan
+Copa Airlines,12,Senegal,Libya,2,1933,4:43,7:26,15-Jan
+Copa Airlines,75,Iran Islamic Republic of,Pakistan,1,1987,19:34,21:20,18-Nov
+Alaska Airlines,39,Greece,Aland Islands,0,437,4:55,16:28,9-Oct
+Aerolineas Argentinas Airlines,10,Liechtenstein,New Caledonia,2,769,24:04:00,17:01,20-Jul
+American Airlines,56,Nepal,Norfolk Island,3,1193,21:01,10:39,1-May
+LATAM Airlines,107,Poland,Fiji,1,1219,24:17:00,6:56,26-Jul
+Gol Transportes Aéreos,128,Japan,Palau,1,1278,14:47,12:22,13-Feb
+Viva Air Colombia,70,Congo The Democratic Republic of the,San Marino,3,1293,23:29,10:03,6-Nov
+TAME,4,British Indian Ocean Territory,Malawi,2,1596,6:38,14:49,22-Aug
+Insel Air,1,Solomon Islands,Turkey,3,1560,9:18,11:40,14-Oct
+LATAM Airlines,76,Brazil,Swaziland,1,314,22:24,0:59,7-Feb
+Boliviana de Aviación,36,Georgia,Bhutan,2,1769,18:54,17:34,18-Nov
+Boliviana de Aviación,53,Latvia,Timor-Leste,0,1371,21:28,3:15,30-Nov
+Avianca Airlines,34,Sao Tome and Principe,Sweden,1,856,6:27,3:37,13-Jul
+TAME,10,Somalia,Kyrgyzstan,0,1661,19:15,7:02,14-May
+Avianca Airlines,72,Lebanon,Seychelles,2,459,14:12,11:10,4-Feb
+Azul Brazilian Airlines,135,Lesotho,French Southern Territories,3,524,19:14,19:55,11-Nov
+Boliviana de Aviación,100,Latvia,Spain,2,412,8:14,4:57,10-Dec
+Aeromexico,98,Christmas Island,Colombia,0,1419,16:12,11:31,4-Jan
+LATAM Airlines,135,Aland Islands,Iraq,1,1515,11:32,12:05,22-Aug
+Copa Airlines,81,Argentina,Bhutan,0,1545,16:28,20:00,11-Oct
+Aerolineas Argentinas Airlines,8,Nicaragua,Cook Islands,3,1116,16:12,7:54,28-Jan
+Avianca Airlines,97,Greece,Isle of Man,3,275,9:29,16:48,12-Jan
+American Airlines,144,Slovakia,Senegal,3,266,16:21,14:00,8-Jan
+Copa Airlines,4,Saint Kitts and Nevis,Paraguay,3,972,6:52,9:27,1-Oct
+Alaska Airlines,93,Bermuda,Mozambique,1,1339,17:02,8:49,13-Feb
+Air Canada,76,Albania,Uruguay,3,520,21:15,7:09,18-Dec
+Gol Transportes Aéreos,46,Congo,Guyana,0,397,23:03,24:57:00,10-Sep
+Aerolineas Argentinas Airlines,91,Greenland,Jersey,2,768,23:12,10:46,29-Nov
+Alaska Airlines,56,Turks and Caicos Islands,South Africa,2,1636,16:21,18:39,25-Feb
+Boliviana de Aviación,108,Bulgaria,Romania,1,260,8:46,21:02,27-Nov
+Azul Brazilian Airlines,137,Vanuatu,Mauritania,0,804,3:21,2:49,10-Oct
+Alaska Airlines,134,Jersey,Sao Tome and Principe,1,1829,4:41,12:19,11-Feb
+American Airlines,47,Cameroon,Belize,2,1400,11:06,7:12,18-Jun
+Aeromexico,68,Solomon Islands,Jamaica,0,1554,23:56,3:38,16-Mar
+Alaska Airlines,22,Curaçao,Guadeloupe,0,981,16:00,16:22,2-Feb
+Aerolineas Argentinas Airlines,65,Japan,Réunion,0,1259,13:34,18:41,2-Feb
+Insel Air,101,British Indian Ocean Territory,Korea Democratic People's Republic of,3,638,12:14,4:43,4-Feb
+Avianca Airlines,17,Northern Mariana Islands,Bangladesh,2,1980,3:32,1:04,29-Apr
+Air Canada,13,Korea Republic of,Congo,1,1630,1:14,1:50,7-Feb
+Alaska Airlines,28,Montenegro,Turks and Caicos Islands,2,689,19:31,12:39,7-Nov
+Conviasa,108,Qatar,Bermuda,2,1315,24:37:00,16:37,26-Aug
+Conviasa,117,Georgia,Norfolk Island,3,1472,9:26,10:37,10-Aug
+Air Canada,102,Austria,Myanmar,2,1485,4:18,0:34,17-May
+Avianca Airlines,16,Andorra,Mozambique,1,810,11:36,0:54,8-Dec
+Azul Brazilian Airlines,86,Lithuania,Pakistan,3,961,5:59,10:03,13-Feb
+Viva Air Colombia,38,San Marino,Micronesia Federated States of,2,1817,14:46,13:54,15-Jan
+Copa Airlines,131,Ireland,Sint Maarten (Dutch part),3,952,21:18,13:00,26-Jan
+Aeromexico,109,Virgin Islands U.S.,Nigeria,2,817,3:15,9:56,4-Feb
+Conviasa,104,Nauru,Haiti,2,1954,3:16,16:32,8-Aug
+Aeromexico,80,Congo The Democratic Republic of the,Ecuador,3,619,11:12,20:36,11-Mar
+Azul Brazilian Airlines,37,Montenegro,Poland,2,330,15:33,12:51,24-Nov
+Viva Air Colombia,147,Bahamas,Cuba,0,420,10:05,23:15,11-Feb
+Línea Aérea Amaszonas,65,Denmark,Egypt,1,1530,10:49,6:16,11-Jan
+American Airlines,18,French Guiana,Svalbard and Jan Mayen,1,1142,7:55,1:24,28-Oct
+Azul Brazilian Airlines,101,Slovakia,Aland Islands,0,1694,5:16,7:21,1-Dec
+Air Canada,33,Hungary,Croatia,1,664,18:13,20:15,12-Apr
+Viva Air Colombia,74,Guyana,Paraguay,0,1221,2:02,2:22,22-Feb
+Aerolineas Argentinas Airlines,101,Cocos (Keeling) Islands,Haiti,2,1287,20:16,9:59,5-Feb
+LATAM Airlines,46,Moldova Republic of,Fiji,3,538,20:25,15:39,7-Oct
+Aerolineas Argentinas Airlines,9,Virgin Islands U.S.,Czech Republic,2,1326,7:48,20:16,2-Jan
+Aeromexico,143,Benin,China,3,1101,5:45,12:07,9-Aug
+Gol Transportes Aéreos,77,Virgin Islands U.S.,Barbados,2,1525,16:20,19:08,26-Apr
+Aerolineas Argentinas Airlines,66,Ireland,Finland,1,1510,23:10,17:45,28-Jan
+Viva Air Colombia,76,Liechtenstein,Austria,2,326,19:53,0:28,5-Jan
+LATAM Airlines,36,Tanzania United Republic of,Saint Martin (French part),0,1945,18:46,5:09,12-Nov
+Viva Air Colombia,84,Russian Federation,Libya,3,542,24:35:00,12:20,20-Jun
+Conviasa,108,Mali,Armenia,1,1324,6:37,4:46,6-Feb
+LATAM Airlines,92,Saint Vincent and the Grenadines,Peru,3,625,6:33,24:26:00,4-May
+American Airlines,84,Ghana,San Marino,1,258,19:52,2:10,22-Dec
+Boliviana de Aviación,144,Svalbard and Jan Mayen,Greece,3,875,16:14,20:43,22-Apr
+LATAM Airlines,5,Marshall Islands,Oman,3,1416,16:27,8:27,27-Feb
+Viva Air Colombia,145,Guyana,Montserrat,3,1861,6:04,21:00,20-Dec
+Copa Airlines,76,Solomon Islands,Sint Maarten (Dutch part),2,740,7:43,17:16,27-Jan
+Aerolineas Argentinas Airlines,47,Mexico,Chad,3,642,2:45,3:33,4-Feb
+Viva Air Colombia,101,Mauritania,Egypt,2,839,12:45,17:23,7-Oct
+LATAM Airlines,25,Sao Tome and Principe,Saint Kitts and Nevis,2,1942,1:26,9:24,11-Sep
+Azul Brazilian Airlines,61,Liechtenstein,Liberia,1,1258,7:11,1:19,11-Sep
+American Airlines,47,Congo,French Guiana,2,483,13:26,11:04,3-Apr
+Alaska Airlines,133,Kuwait,Switzerland,3,397,20:46,10:26,11-Feb
+Air Canada,109,Kenya,El Salvador,2,598,20:17,11:49,13-Oct
+Air Canada,46,Denmark,Brunei Darussalam,3,1813,15:04,19:13,8-Dec
+Boliviana de Aviación,135,Eritrea,Marshall Islands,0,931,17:07,24:23:00,21-Jun
+American Airlines,148,Burundi,Mozambique,1,1310,1:36,13:23,27-Nov
+LATAM Airlines,7,Heard Island and McDonald Islands,Guam,3,1678,19:59,23:48,14-Mar
+Línea Aérea Amaszonas,91,India,United States,1,714,0:12,17:25,23-Mar
+Avianca Airlines,57,Guatemala,Liberia,2,536,14:33,3:39,19-Dec
+Gol Transportes Aéreos,57,Curaçao,Czech Republic,3,1327,22:02,1:47,11-Sep
+Aerolineas Argentinas Airlines,107,Falkland Islands (Malvinas),Tanzania United Republic of,3,1899,20:13,14:57,18-Mar
+Avianca Airlines,142,Myanmar,United States,3,951,0:00,14:02,25-Jan
+Insel Air,97,Heard Island and McDonald Islands,Russian Federation,3,1993,0:40,22:50,10-Apr
+Azul Brazilian Airlines,112,Italy,Gibraltar,3,1809,0:01,7:53,15-Dec
+Azul Brazilian Airlines,136,Kuwait,Benin,2,1503,12:06,10:54,12-Dec
+Copa Airlines,38,South Sudan,Chile,1,1081,16:31,10:30,7-Mar
+Aerolineas Argentinas Airlines,29,India,Malaysia,3,1171,12:33,5:52,29-Aug
+Boliviana de Aviación,136,Kazakhstan,Netherlands,3,1961,18:45,16:34,15-Sep
+American Airlines,143,Bermuda,Turkey,3,733,9:20,4:47,9-Jun
+Copa Airlines,26,Lao People's Democratic Republic,China,3,489,24:38:00,21:35,23-Sep
+American Airlines,65,Chile,China,2,1692,6:43,15:39,8-Aug
+Línea Aérea Amaszonas,99,Denmark,Moldova Republic of,3,223,14:15,3:13,11-Nov
+Alaska Airlines,52,Tajikistan,Dominican Republic,1,655,5:58,4:12,11-Jul
+Viva Air Colombia,124,Togo,Heard Island and McDonald Islands,3,978,6:01,18:50,8-Jul
+Alaska Airlines,36,Kuwait,Swaziland,1,1402,22:00,23:29,24-Mar
+LATAM Airlines,48,Pitcairn,French Southern Territories,3,520,24:44:00,10:26,16-Mar
+Boliviana de Aviación,70,Gibraltar,Saint Kitts and Nevis,2,1406,19:03,11:45,5-Mar
+Air Canada,91,Malta,Costa Rica,3,1596,6:57,6:44,4-Feb
+Air Canada,110,Belize,Mauritius,2,1994,7:58,1:55,15-Apr
+LATAM Airlines,35,Pitcairn,Belize,1,1736,6:29,22:26,25-Feb
+Línea Aérea Amaszonas,149,Central African Republic,Bolivia Plurinational State of,2,583,18:18,7:33,22-Nov
+Gol Transportes Aéreos,69,Mauritius,Wallis and Futuna,1,1295,5:54,1:12,13-Jan
+Boliviana de Aviación,125,Azerbaijan,Grenada,3,1001,9:47,6:59,13-Oct
+Boliviana de Aviación,145,United States Minor Outlying Islands,Denmark,0,1924,8:38,9:23,18-Aug
+Viva Air Colombia,61,Philippines,Bouvet Island,2,1654,21:29,2:36,2-Jan
+LATAM Airlines,31,Libya,Macao,3,489,17:44,19:32,13-Feb
+Aeromexico,146,Bonaire Sint Eustatius and Saba,Saint Helena Ascension and Tristan da Cunha,2,962,1:03,8:03,3-Apr
+Avianca Airlines,15,San Marino,Rwanda,1,1933,23:10,24:00:00,13-May
+LATAM Airlines,74,Solomon Islands,Moldova Republic of,0,593,3:06,7:20,22-Jan
+Viva Air Colombia,48,Cape Verde,Madagascar,2,231,1:05,23:00,20-Feb
+TAME,126,Wallis and Futuna,Macao,3,1858,5:26,1:45,21-Jan
+Alaska Airlines,15,Finland,Germany,2,1934,16:09,13:41,21-Nov
+Azul Brazilian Airlines,53,Saint Helena Ascension and Tristan da Cunha,Philippines,0,1325,21:11,21:34,9-Sep
+TAME,89,Kazakhstan,Macao,2,454,22:56,17:53,1-Sep
+Air Canada,127,Austria,Virgin Islands U.S.,0,211,2:11,16:18,24-Feb
+Copa Airlines,37,Micronesia Federated States of,Guyana,1,1284,9:26,2:29,6-Feb
+Air Canada,36,Norway,Cyprus,0,1113,22:09,22:54,15-Jul
+Viva Air Colombia,63,French Guiana,Dominica,0,954,8:31,20:13,30-Jun
+Azul Brazilian Airlines,140,Singapore,Jordan,3,886,12:21,0:41,13-May
+TAME,117,Belize,Hong Kong,3,1944,16:25,9:40,19-Mar
+TAME,126,Qatar,Ghana,3,1089,4:51,16:38,14-Jan
+Azul Brazilian Airlines,78,Tanzania United Republic of,Anguilla,0,1732,13:20,20:30,19-Nov
+Insel Air,106,Senegal,Isle of Man,0,1659,24:02:00,11:52,21-Aug
+Boliviana de Aviación,36,Poland,Sri Lanka,2,1128,0:45,14:28,29-Aug
+Boliviana de Aviación,107,Zambia,Uganda,3,747,14:08,10:16,12-Oct
+Avianca Airlines,132,Mexico,San Marino,1,901,22:24,7:55,23-Apr
+Copa Airlines,82,Liechtenstein,Honduras,1,813,20:09,10:43,15-Aug
+Azul Brazilian Airlines,12,Kazakhstan,British Indian Ocean Territory,1,312,18:15,16:03,11-Feb
+Conviasa,19,Saint Vincent and the Grenadines,Germany,1,1510,21:31,17:07,26-Aug
+Air Canada,137,Spain,Argentina,1,1145,21:49,3:45,14-Mar
+Línea Aérea Amaszonas,140,Malta,Palau,3,972,24:17:00,20:26,15-Oct
+Línea Aérea Amaszonas,29,Switzerland,Gabon,3,1295,3:42,16:47,16-Dec
+Línea Aérea Amaszonas,52,Haiti,French Polynesia,0,874,18:40,13:06,17-Feb
+American Airlines,134,Philippines,Czech Republic,2,670,11:59,5:43,17-Sep
+American Airlines,101,Northern Mariana Islands,Macao,2,1538,8:21,6:25,10-Jul
+Aerolineas Argentinas Airlines,117,Cocos (Keeling) Islands,Mexico,1,1925,18:04,10:47,30-Jun
+Aerolineas Argentinas Airlines,9,New Zealand,Sri Lanka,1,411,23:57,6:06,26-May
+Aeromexico,45,Faroe Islands,Somalia,2,1951,10:51,20:15,14-Jul
+Copa Airlines,133,Faroe Islands,Somalia,2,1936,2:09,22:58,29Feb
+Azul Brazilian Airlines,35,Qatar,Central African Republic,3,511,12:31,23:37,19-Mar
+Línea Aérea Amaszonas,102,Cape Verde,Bulgaria,0,864,17:31,17:09,18-Mar
+Boliviana de Aviación,3,Palau,France,3,1001,19:45,19:12,8-Dec
+LATAM Airlines,31,Bermuda,Comoros,2,1366,16:40,6:00,9-Jan
+Boliviana de Aviación,52,Argentina,Australia,0,1637,18:12,5:06,19-Jan
+Insel Air,48,French Polynesia,Burkina Faso,2,671,17:58,5:14,13-Apr
+Insel Air,78,Jamaica,Chad,1,232,17:47,2:51,6-Mar
+Viva Air Colombia,143,Qatar,Aruba,1,1887,23:00,23:09,30-Dec
+Gol Transportes Aéreos,67,Mongolia,Bulgaria,0,1894,21:52,5:39,9-Jan
+Avianca Airlines,3,United States Minor Outlying Islands,Antarctica,0,1805,0:16,3:18,28-Mar
+Aerolineas Argentinas Airlines,61,Marshall Islands,Burkina Faso,0,258,10:20,24:06:00,25-Jul
+Avianca Airlines,23,Micronesia Federated States of,Virgin Islands British,1,1306,10:12,1:15,8-Feb
+American Airlines,27,Albania,Andorra,3,1043,16:45,1:45,15-Nov
+Aerolineas Argentinas Airlines,42,Holy See (Vatican City State),Libya,0,510,6:04,13:22,13-Mar
+Copa Airlines,63,Dominican Republic,Latvia,3,1288,14:27,8:00,23-Sep
+Avianca Airlines,121,Venezuela Bolivarian Republic of,Ukraine,0,1384,22:57,11:20,12-Dec
+Boliviana de Aviación,76,United States Minor Outlying Islands,Cameroon,3,880,8:11,23:49,8-Oct
+Copa Airlines,126,Saint Kitts and Nevis,Brazil,2,624,23:24,24:55:00,9-Dec
+Air Canada,101,Syrian Arab Republic,Sudan,2,1841,8:35,11:29,2-Mar
+Aeromexico,134,South Georgia and the South Sandwich Islands,Botswana,2,1727,21:09,24:11:00,4-Jul
+TAME,117,Guatemala,United Arab Emirates,3,787,18:07,18:31,11-Oct
+Línea Aérea Amaszonas,89,Bouvet Island,Antigua and Barbuda,3,616,20:28,19:55,11-Aug
+Air Canada,52,Uruguay,Venezuela Bolivarian Republic of,2,1642,20:06,24:28:00,17-Jan
+Boliviana de Aviación,44,Slovakia,San Marino,1,1454,16:03,9:07,5-Oct
+Boliviana de Aviación,82,Guernsey,Equatorial Guinea,0,1846,17:56,22:27,11-Apr
+Línea Aérea Amaszonas,63,Guyana,Lebanon,1,510,13:36,2:13,24-Mar
+Gol Transportes Aéreos,61,Anguilla,Rwanda,2,987,11:55,21:16,10-Nov
+American Airlines,128,Taiwan Province of China,Ukraine,3,870,11:33,10:43,16-May
+Azul Brazilian Airlines,73,Liechtenstein,Colombia,0,1181,10:01,14:09,12-Nov
+Alaska Airlines,14,Macao,Cook Islands,3,1723,14:14,2:09,27-Feb
+Copa Airlines,57,Montserrat,Burundi,3,451,14:22,23:17,14-Sep
+Boliviana de Aviación,14,Anguilla,Portugal,2,1347,17:20,21:34,5-Nov
+Boliviana de Aviación,137,Brunei Darussalam,Mongolia,1,436,6:14,3:53,14-Aug
+Gol Transportes Aéreos,105,Chad,Ireland,0,712,0:29,19:29,12-Oct
+Insel Air,34,Malta,Libya,2,1535,23:49,15:26,4-Feb
+TAME,86,British Indian Ocean Territory,Montserrat,0,961,8:49,11:28,26-Jun
+Copa Airlines,143,Kazakhstan,Iceland,2,1896,4:24,14:56,15-Dec
+Boliviana de Aviación,5,Italy,Colombia,0,1909,19:46,3:26,20-Jun
+Conviasa,27,Niue,Belgium,1,1374,5:35,4:52,17-Dec
+TAME,121,Qatar,Malta,1,1650,0:47,15:21,2-Feb
+Aeromexico,102,Tuvalu,Italy,1,1443,0:33,5:04,28-Dec
+TAME,144,United Kingdom,Réunion,1,1571,2:13,23:35,18-Jan
+LATAM Airlines,56,Norfolk Island,Comoros,0,1797,4:38,15:14,30-Dec
+Insel Air,98,Bolivia Plurinational State of,Grenada,2,977,23:54,21:38,15-Jan
+Aeromexico,130,Mauritius,Tajikistan,2,1214,6:22,4:14,18-Apr
+Copa Airlines,46,Austria,Guam,3,1094,16:49,21:28,14-Aug
+Air Canada,47,Virgin Islands British,Switzerland,0,1161,19:57,12:53,20-Mar
+Conviasa,138,Saint Lucia,Latvia,0,1673,5:49,13:06,29-Jun
+Aerolineas Argentinas Airlines,137,Tunisia,Malaysia,1,1561,16:00,14:53,28-Apr
+Gol Transportes Aéreos,97,United States,Haiti,0,381,13:06,17:39,9-Apr
+Aerolineas Argentinas Airlines,126,Mali,Dominica,1,1727,21:22,15:24,17-Mar
+Alaska Airlines,48,Italy,Moldova Republic of,3,1867,4:35,6:56,3-Nov
+Viva Air Colombia,68,Bermuda,Lithuania,0,1764,11:00,3:18,17-May
+Insel Air,33,Jersey,Austria,1,962,9:30,9:03,6-Jul
+Gol Transportes Aéreos,20,Ireland,Liberia,3,468,8:33,12:59,3-Jan
+Air Canada,34,Panama,Norway,3,862,19:39,24:35:00,15-May
+TAME,96,Guinea-Bissau,Cook Islands,3,331,20:43,3:13,5-Oct
+Alaska Airlines,67,American Samoa,Suriname,1,468,20:33,20:49,23-Sep
+Línea Aérea Amaszonas,119,Jamaica,Sao Tome and Principe,2,759,18:42,10:05,8-May
+American Airlines,33,Nauru,Saint Barthélemy,2,1194,17:21,24:39:00,26-Feb
+LATAM Airlines,116,Bonaire Sint Eustatius and Saba,France,2,1693,12:15,13:20,14-Oct
+Avianca Airlines,97,Slovenia,Bahrain,2,490,8:04,16:07,9-Dec
+Alaska Airlines,108,Barbados,Gibraltar,1,339,12:16,0:43,22-Oct
+Gol Transportes Aéreos,139,Namibia,France,0,1526,11:59,10:03,18-May
+LATAM Airlines,126,Mongolia,Benin,1,1657,22:52,10:36,6-Nov
+Avianca Airlines,74,Uzbekistan,Chad,1,984,5:36,5:18,1-Dec
+Copa Airlines,70,Saudi Arabia,Kenya,2,1214,2:26,23:48,11-Dec
+Conviasa,51,Uzbekistan,Sudan,2,1939,12:07,21:13,27-Apr
+Boliviana de Aviación,127,Monaco,Croatia,1,1556,7:25,21:39,16-Feb
+Copa Airlines,27,Gabon,Fiji,1,1272,19:03,15:34,6-Feb
+Copa Airlines,94,Tanzania United Republic of,Nepal,0,1536,7:02,8:17,25-Jan
+Boliviana de Aviación,116,Uruguay,Chile,3,1396,7:15,14:00,23-Apr
+Alaska Airlines,71,Madagascar,Virgin Islands British,0,1077,5:22,22:05,8-Aug
+Alaska Airlines,42,Tanzania United Republic of,Belgium,0,1778,5:29,12:32,9-Dec
+American Airlines,58,Swaziland,Qatar,1,1342,17:31,9:26,2-Oct
+Aeromexico,63,Grenada,Tunisia,2,760,16:24,20:00,23-Sep
+Conviasa,21,Bouvet Island,Panama,1,1068,12:30,9:20,26-Jun
+Copa Airlines,136,Guadeloupe,Botswana,2,1713,17:56,8:05,20-Oct
+TAME,129,Aland Islands,Pitcairn,3,381,3:36,15:07,11-Sep
+Alaska Airlines,23,Georgia,Spain,1,941,13:40,15:49,4-Dec
+Alaska Airlines,16,Bosnia and Herzegovina,Marshall Islands,1,385,22:08,4:06,29-Jul
+American Airlines,4,Tunisia,Brunei Darussalam,3,1561,11:13,24:24:00,24-Mar
+TAME,42,Saint Martin (French part),Japan,0,906,20:14,21:38,7-Aug
+Avianca Airlines,93,Kiribati,Burkina Faso,0,1620,10:46,17:20,15-Aug
+Azul Brazilian Airlines,42,Norfolk Island,Wallis and Futuna,0,1982,3:20,19:54,12-Dec
+Air Canada,136,Nigeria,China,2,554,9:57,6:18,10-Oct
+LATAM Airlines,37,Bosnia and Herzegovina,Myanmar,2,1293,18:45,24:39:00,9-Jul
+TAME,120,Estonia,Egypt,2,1465,13:47,4:05,16-Jul
+Aeromexico,58,Virgin Islands British,Bulgaria,1,1454,7:58,4:16,13-Feb
+Air Canada,54,Sri Lanka,Saint Kitts and Nevis,2,1420,17:57,19:14,10-Jun
+Azul Brazilian Airlines,38,Poland,Virgin Islands British,1,1149,12:21,11:14,20-Jun
+American Airlines,95,Slovenia,Spain,1,1669,12:44,24:51:00,1-Feb
+Aeromexico,52,Moldova Republic of,Netherlands,0,950,6:48,0:22,25-Feb
+Aeromexico,4,Yemen,Faroe Islands,0,1680,4:18,3:06,1-Nov
+Aeromexico,28,Suriname,Myanmar,1,1935,2:01,18:11,12-May
+Conviasa,140,Dominican Republic,Saint Helena Ascension and Tristan da Cunha,1,370,15:08,5:13,20-May
+Conviasa,84,Philippines,Turks and Caicos Islands,3,1710,11:23,1:04,18-Feb
+Conviasa,92,Equatorial Guinea,Gambia,2,1373,6:03,20:30,21-Mar
+Aeromexico,35,Cuba,Mexico,1,1946,19:29,20:40,23-May
+Aerolineas Argentinas Airlines,57,Guinea,Hungary,0,1732,11:42,15:29,1-Apr
+Aerolineas Argentinas Airlines,66,Sierra Leone,Mali,0,1560,10:31,18:45,19-Aug
+Alaska Airlines,39,Mauritius,Korea Republic of,1,723,1:42,12:38,14-Apr
+Azul Brazilian Airlines,119,Singapore,Japan,2,1206,4:13,21:24,26-Sep
+TAME,110,French Polynesia,Lao People's Democratic Republic,3,410,2:18,2:25,7-Aug
+Avianca Airlines,108,Bermuda,Poland,3,1013,0:32,0:23,6-Dec
+Azul Brazilian Airlines,118,Belgium,Anguilla,3,645,15:17,1:40,14-May
+Insel Air,113,Pakistan,Tunisia,2,1845,17:38,20:59,24-Oct
+Gol Transportes Aéreos,35,Réunion,Guernsey,0,1116,16:12,9:23,14-Aug
+Viva Air Colombia,52,Turks and Caicos Islands,Lithuania,3,1887,1:54,10:23,16-Aug
+Boliviana de Aviación,133,Grenada,Greece,0,588,14:03,11:20,2-Oct
+Conviasa,68,Zambia,Seychelles,2,914,18:23,1:07,20-Dec
+American Airlines,35,Nauru,Somalia,3,1358,7:28,14:27,27-May
+Insel Air,45,Ethiopia,Netherlands,2,1541,3:00,13:49,14-Jul
+Avianca Airlines,145,Bahrain,Turks and Caicos Islands,2,392,24:40:00,3:52,5-Sep
+American Airlines,108,Bouvet Island,Canada,3,1778,18:47,2:51,9-Dec
+Boliviana de Aviación,144,Australia,Niue,2,479,8:59,24:03:00,8-Nov
+Boliviana de Aviación,45,Cuba,France,1,1339,10:06,20:45,7-Jun
+Avianca Airlines,134,Costa Rica,Palau,2,1871,19:04,17:37,10-Mar
+Viva Air Colombia,13,Somalia,Timor-Leste,0,819,6:20,10:34,20-Apr
+American Airlines,98,Saint Pierre and Miquelon,Tanzania United Republic of,0,405,6:45,4:41,23-Feb
+Boliviana de Aviación,105,Paraguay,Montserrat,0,1093,19:59,13:36,7-Nov
+Insel Air,105,Iran Islamic Republic of,Dominican Republic,0,1746,18:27,23:18,14-Nov
+American Airlines,118,Cook Islands,Mongolia,2,1158,17:48,11:42,16-Mar
+Avianca Airlines,76,Uganda,Togo,2,672,2:37,1:54,22-Sep
+Insel Air,27,Ecuador,Saint Kitts and Nevis,1,335,16:50,5:57,9-Jan
+Línea Aérea Amaszonas,72,Saint Helena Ascension and Tristan da Cunha,Chad,3,483,14:45,8:18,15-Jul
+Avianca Airlines,83,Andorra,Antarctica,0,905,1:25,24:17:00,17-Sep
+LATAM Airlines,135,Serbia,Maldives,0,1273,6:26,14:23,17-Apr
+LATAM Airlines,93,Pitcairn,Dominica,3,921,17:33,20:13,2-May
+LATAM Airlines,146,Malawi,Saint Kitts and Nevis,0,492,15:19,19:37,6-Apr
+Avianca Airlines,135,India,Estonia,1,937,16:24,10:08,2-Mar
+Línea Aérea Amaszonas,63,Kazakhstan,Iraq,1,1090,2:24,22:44,21-Mar
+Azul Brazilian Airlines,73,Syrian Arab Republic,Korea Democratic People's Republic of,0,1473,18:01,8:37,23-Jul
+Gol Transportes Aéreos,121,Romania,Zambia,0,1458,6:41,8:22,22-Oct
+Copa Airlines,116,Burkina Faso,Spain,2,1200,1:38,17:57,1-Mar
+Azul Brazilian Airlines,78,Mauritius,Luxembourg,0,876,16:18,16:27,12-Sep
+TAME,63,Palau,Faroe Islands,3,358,16:14,4:14,29-Mar
+Línea Aérea Amaszonas,130,South Africa,Nicaragua,3,534,6:21,12:28,1-Apr
+TAME,150,Slovakia,Micronesia Federated States of,3,656,4:13,21:08,13-Aug
+Boliviana de Aviación,78,Saudi Arabia,Saint Lucia,0,1296,23:30,22:08,17-Nov
+American Airlines,110,Christmas Island,Nauru,2,1316,22:25,19:28,7-Nov
+Aeromexico,134,Uruguay,Sao Tome and Principe,0,268,14:38,3:48,7-Feb
+TAME,19,Jersey,Martinique,2,1092,17:37,7:55,24-Feb
+Copa Airlines,148,Saint Martin (French part),Korea Democratic People's Republic of,3,413,21:04,4:42,1-Aug
+Alaska Airlines,117,Cocos (Keeling) Islands,France,1,212,16:10,12:14,20-Dec
+Conviasa,63,Chile,French Polynesia,1,938,18:27,5:41,20-Aug
+Viva Air Colombia,145,Gambia,Martinique,2,1750,4:47,20:56,2-Jan
+Aeromexico,67,Paraguay,Curaçao,3,363,8:50,23:03,7-Sep
+Air Canada,98,Italy,Austria,3,892,7:53,23:36,20-Jun
+Conviasa,73,United Arab Emirates,Jersey,1,1089,0:32,6:12,3-Nov
+Gol Transportes Aéreos,38,Guernsey,Benin,2,705,10:45,19:52,7-Jun
+Azul Brazilian Airlines,6,Faroe Islands,Saint Barthélemy,1,869,24:16:00,16:40,14-May
+Insel Air,141,Djibouti,Uruguay,1,1577,13:08,23:53,19-Sep
+Alaska Airlines,7,Barbados,Andorra,2,1192,18:39,13:17,21-Jan
+Insel Air,29,El Salvador,Costa Rica,0,1951,3:52,15:50,20-Jul
+Aeromexico,42,Tuvalu,Turkey,2,766,14:31,14:45,11-Jun
+Air Canada,81,Albania,Svalbard and Jan Mayen,0,421,24:45:00,4:43,27-Sep
+Aeromexico,70,Belarus,Philippines,3,1117,18:01,6:40,2-Apr
+Air Canada,90,Argentina,Cayman Islands,2,354,12:29,0:41,10-May
+TAME,149,United States,Monaco,3,1894,12:08,23:57,15-Apr
+TAME,37,Bulgaria,Estonia,2,706,14:41,4:26,12-Jun
+LATAM Airlines,72,Gibraltar,Bangladesh,1,1978,19:50,16:26,14-Nov
+Avianca Airlines,79,Turkey,Algeria,1,1294,18:17,2:05,18-Mar
+Viva Air Colombia,123,Venezuela Bolivarian Republic of,Cuba,3,796,12:43,6:27,18-Jul
+Copa Airlines,10,Korea Republic of,Suriname,0,1791,23:43,4:37,20-Aug
+Air Canada,58,Brazil,Azerbaijan,2,1333,14:14,12:59,8-Nov
+Insel Air,39,Christmas Island,Benin,2,1837,2:28,10:45,27-Apr
+Boliviana de Aviación,122,Saint Pierre and Miquelon,Russian Federation,1,1508,24:21:00,18:32,27-Nov
+Conviasa,33,Nauru,Saint Lucia,2,516,17:12,7:23,23-Feb
+Azul Brazilian Airlines,143,Iraq,Tuvalu,1,1412,0:44,1:29,21-Jan
+Línea Aérea Amaszonas,128,Samoa,Saint Martin (French part),2,1739,5:22,1:38,6-Jun
+Conviasa,5,Egypt,Botswana,2,1904,4:48,13:51,25-Nov
+Aeromexico,35,Anguilla,Taiwan Province of China,2,259,10:01,23:22,16-Jul
+Aerolineas Argentinas Airlines,23,Turkey,Equatorial Guinea,2,1695,13:47,3:12,23-May
+Gol Transportes Aéreos,78,Spain,Cayman Islands,0,641,15:38,17:04,8-May
+Avianca Airlines,9,Niue,Maldives,3,233,6:25,9:46,25-Aug
+Conviasa,1,Netherlands,American Samoa,1,1191,11:58,10:28,1-Dec
+Conviasa,131,Trinidad and Tobago,Maldives,3,1478,17:59,22:43,15-Oct
+Azul Brazilian Airlines,35,Germany,Hungary,0,1882,12:03,2:23,17-Feb
+TAME,150,Ukraine,Mongolia,3,1869,6:09,10:41,23-Sep
+American Airlines,137,Malawi,Heard Island and McDonald Islands,0,1760,2:40,0:40,29-Mar
+TAME,147,Jordan,Bouvet Island,2,1488,16:56,13:17,16-Jul
+Alaska Airlines,30,Estonia,Kenya,1,1815,19:08,1:51,25-Apr
+Boliviana de Aviación,49,Hungary,Bahrain,2,464,9:52,2:34,4-Nov
+American Airlines,110,Trinidad and Tobago,Mauritania,1,1458,14:33,19:11,28-Jun
+TAME,75,Guadeloupe,Yemen,3,1518,7:32,17:00,24-Nov
+Gol Transportes Aéreos,57,Macao,Cuba,1,1495,3:19,7:30,24-Jan
+Boliviana de Aviación,98,Palau,Nepal,1,1742,0:42,17:44,21-Sep
+Azul Brazilian Airlines,70,United Arab Emirates,Switzerland,2,1772,8:00,8:34,22-Nov
+Viva Air Colombia,39,Angola,South Africa,0,497,2:47,12:55,29-Apr
+Conviasa,100,Jordan,Uruguay,1,431,8:44,23:18,24-May
+Aeromexico,121,Bhutan,Myanmar,3,216,20:48,24:03:00,4-Mar
+Azul Brazilian Airlines,130,Peru,Luxembourg,0,966,21:29,17:28,13-Oct
+Viva Air Colombia,74,Fiji,Brunei Darussalam,1,831,13:23,11:31,16-Jun
+Línea Aérea Amaszonas,15,Tunisia,Cook Islands,2,1302,17:10,22:09,11-Sep
+Insel Air,133,South Africa,Tuvalu,2,551,11:35,23:32,17-Aug
+Línea Aérea Amaszonas,60,San Marino,Kuwait,0,1819,24:54:00,17:56,6-Feb
+Línea Aérea Amaszonas,20,El Salvador,Greece,0,775,1:06,4:43,5-Dec
+Copa Airlines,113,Nauru,Sweden,2,269,18:43,13:18,22-Feb
+Air Canada,46,Iceland,Belize,1,1175,17:43,17:21,1-Jan
+Alaska Airlines,118,Norway,Denmark,2,505,20:41,2:30,22-Dec
+Avianca Airlines,81,Falkland Islands (Malvinas),Montenegro,0,790,13:40,0:50,9-Apr
+Viva Air Colombia,15,Wallis and Futuna,Uganda,2,1455,12:21,6:43,22-Jul
+Línea Aérea Amaszonas,119,Singapore,Zambia,1,956,9:34,20:23,8-Jan
+Aerolineas Argentinas Airlines,8,Bahamas,Cuba,3,459,11:16,23:31,20-Aug
+Boliviana de Aviación,110,Liberia,Jersey,3,1636,14:36,17:11,6-Mar
+Aeromexico,64,Tokelau,Tanzania United Republic of,2,558,4:25,24:37:00,7-Dec
+Copa Airlines,115,Oman,Estonia,3,331,12:17,5:47,15-Feb
+Gol Transportes Aéreos,109,Oman,Finland,2,1507,22:34,1:51,3-Aug
+Air Canada,49,Bulgaria,Faroe Islands,2,299,7:24,3:14,25-Nov
+Copa Airlines,148,South Africa,Cayman Islands,0,823,12:33,21:08,29-Nov
+Copa Airlines,114,Ecuador,Eritrea,3,583,4:04,2:02,14-May
+Air Canada,91,Virgin Islands British,Belgium,1,572,3:59,14:32,3-Aug
+Gol Transportes Aéreos,28,Qatar,Falkland Islands (Malvinas),0,265,24:51:00,6:22,22-Sep
+Azul Brazilian Airlines,95,Belize,Cyprus,3,830,18:44,12:43,13-May
+Conviasa,32,Cook Islands,Micronesia Federated States of,0,274,13:58,12:54,6-Jul
+Insel Air,90,Palau,Tunisia,3,237,12:57,19:03,27-Jun
+Alaska Airlines,57,Gabon,Puerto Rico,1,1880,9:34,8:28,19-Aug
+Azul Brazilian Airlines,73,Korea Democratic People's Republic of,Antarctica,1,705,11:12,11:31,6-Jan
+Aerolineas Argentinas Airlines,20,Iraq,Saint Helena Ascension and Tristan da Cunha,2,1117,2:52,11:11,17-Dec
+Copa Airlines,59,Paraguay,Grenada,1,1846,0:03,1:47,7-Dec
+Copa Airlines,31,Niue,French Southern Territories,2,335,6:10,20:22,26-Apr
+Air Canada,100,Burundi,Japan,2,1162,4:26,9:32,22-Jul
+Viva Air Colombia,72,Guadeloupe,Sierra Leone,0,1475,6:06,10:51,24-Jul
+Aerolineas Argentinas Airlines,70,Montenegro,Guinea-Bissau,3,1143,15:32,7:03,28-Apr
+Viva Air Colombia,89,Angola,Chile,3,1395,24:12:00,12:55,16-Jul
+Gol Transportes Aéreos,88,El Salvador,Rwanda,0,928,19:28,15:27,1-Aug
+Línea Aérea Amaszonas,49,Mauritania,Saint Lucia,0,1578,0:49,14:40,17-Feb
+Avianca Airlines,44,Central African Republic,Suriname,0,1428,22:05,1:33,21-Apr
+Insel Air,4,Romania,Nauru,1,1420,9:04,24:13:00,15-Dec
+LATAM Airlines,118,Grenada,Croatia,3,1968,8:39,16:32,3-May
+TAME,21,Germany,Ethiopia,3,1065,22:53,10:50,14-Jul
+LATAM Airlines,58,Libya,Malta,0,877,7:02,15:11,13-Sep
+Viva Air Colombia,13,Equatorial Guinea,Belgium,1,935,20:25,11:02,14-Apr
+Aeromexico,41,Bulgaria,Burundi,3,286,20:38,0:14,24-Sep
+Viva Air Colombia,14,Portugal,Taiwan Province of China,3,1249,24:55:00,15:49,12-Jul
+Conviasa,1,Burkina Faso,Rwanda,2,890,19:47,4:30,1-Mar
+Conviasa,12,United States Minor Outlying Islands,Canada,3,317,13:56,17:09,28-Feb
+LATAM Airlines,71,Yemen,Belarus,0,583,4:37,5:23,11-Sep
+LATAM Airlines,48,Russian Federation,Bahrain,2,1976,7:59,5:11,6-Feb
+Conviasa,68,Papua New Guinea,Mongolia,1,1940,5:27,15:47,10-Jun
+Copa Airlines,101,Malaysia,Papua New Guinea,3,1496,15:58,8:03,19-Sep
+American Airlines,17,Finland,French Southern Territories,0,1340,21:11,12:07,22-May
+Gol Transportes Aéreos,45,Saint Helena Ascension and Tristan da Cunha,Estonia,2,1683,22:54,3:04,8-May
+Copa Airlines,139,Nicaragua,Nigeria,3,1719,22:26,15:38,27-May
+Conviasa,62,Haiti,Nicaragua,2,1986,0:48,8:30,20-Jun
+Conviasa,81,Nicaragua,Greenland,0,883,4:38,1:22,5-Feb
+Avianca Airlines,134,Mongolia,Kiribati,2,995,17:09,0:20,8-Oct
+Avianca Airlines,94,British Indian Ocean Territory,Qatar,0,1187,3:01,4:11,18-Sep
+Azul Brazilian Airlines,87,Christmas Island,Tonga,1,827,3:00,7:05,10-Oct
+TAME,100,Macao,Madagascar,2,1653,15:25,16:33,16-Sep
+Gol Transportes Aéreos,85,Morocco,South Africa,3,610,2:01,7:42,25-Dec
+Viva Air Colombia,56,Romania,Tokelau,1,529,21:01,3:17,18-Aug
+Alaska Airlines,82,Spain,Virgin Islands British,1,616,23:00,20:27,13-Nov
+Boliviana de Aviación,71,Virgin Islands U.S.,Bosnia and Herzegovina,2,1705,13:27,0:22,28-Apr
+Alaska Airlines,100,Argentina,Monaco,3,783,3:13,9:00,1-Mar
+Alaska Airlines,14,Iceland,Faroe Islands,0,1456,21:43,4:01,4-Aug
+Conviasa,125,Algeria,Dominica,2,791,11:03,5:37,25-Jul
+Azul Brazilian Airlines,3,Marshall Islands,Luxembourg,0,1577,4:15,13:55,20-Jun
+Viva Air Colombia,96,Macedonia Republic of,Ireland,1,1620,6:38,13:34,26-Aug
+Air Canada,109,Cuba,Korea Democratic People's Republic of,2,871,19:21,17:49,11-Jul
+Aeromexico,33,Rwanda,Ireland,1,715,3:01,4:09,22-Dec
+Copa Airlines,20,Saint Martin (French part),Japan,1,1110,1:39,6:34,16-Sep
+Línea Aérea Amaszonas,109,United States,Austria,0,1799,4:26,5:54,3-Oct
+Boliviana de Aviación,140,Japan,Madagascar,0,1343,20:45,22:18,21-Sep
+Gol Transportes Aéreos,44,Macedonia Republic of,Turks and Caicos Islands,0,1447,11:43,5:27,16-Mar
+Air Canada,46,Sri Lanka,Swaziland,0,1335,19:19,11:15,29-Jun
+Aerolineas Argentinas Airlines,89,Holy See (Vatican City State),Guernsey,2,1147,23:06,18:32,19-Feb
+Avianca Airlines,78,Tonga,Kuwait,3,427,22:35,19:16,6-Feb
+Aeromexico,84,Taiwan Province of China,Guyana,2,453,12:24,14:33,25-Jul
+Aerolineas Argentinas Airlines,6,Bahrain,Switzerland,1,1602,5:37,19:24,7-May
+Aeromexico,64,Georgia,United Kingdom,1,335,3:58,16:45,5-Mar
+American Airlines,100,Papua New Guinea,Bermuda,1,1191,11:46,14:51,14-May
+TAME,68,Timor-Leste,Guyana,0,1798,13:25,19:31,12-Feb
+Boliviana de Aviación,125,Cambodia,Armenia,3,233,10:18,6:35,28-Dec
+Aerolineas Argentinas Airlines,78,Senegal,Faroe Islands,2,678,24:56:00,8:32,30-Aug
+Boliviana de Aviación,113,Barbados,Tokelau,3,691,22:14,4:24,12-Apr
+Avianca Airlines,130,Seychelles,Singapore,0,1967,5:14,12:50,19-Jun
+Boliviana de Aviación,102,Central African Republic,Armenia,0,937,14:39,7:55,23-Oct
+Avianca Airlines,95,Italy,France,2,1247,9:32,7:25,10-Oct
+TAME,83,Angola,Liechtenstein,0,704,15:49,13:52,23-Jul
+Azul Brazilian Airlines,4,Sri Lanka,Niue,2,292,17:11,17:32,5-Apr
+Gol Transportes Aéreos,89,Chile,Brazil,0,1031,8:39,6:21,11-Nov
+Línea Aérea Amaszonas,12,South Georgia and the South Sandwich Islands,Ukraine,1,1975,10:57,21:45,20-Jun
+Alaska Airlines,71,India,Nepal,2,1515,16:23,13:07,23-Feb
+Aerolineas Argentinas Airlines,15,Bosnia and Herzegovina,United States,1,1958,1:16,1:30,13-Aug
+Aerolineas Argentinas Airlines,78,Virgin Islands U.S.,Brunei Darussalam,1,1668,0:47,0:38,23-Apr
+Alaska Airlines,86,Kuwait,Romania,2,1993,21:31,20:11,19-Aug
+Viva Air Colombia,130,Belize,Palau,1,1604,10:49,21:23,1-Jul
+Aeromexico,117,Nicaragua,Timor-Leste,3,265,4:42,1:07,5-Apr
+TAME,115,Luxembourg,Falkland Islands (Malvinas),2,1459,2:29,19:25,29-Oct
+Alaska Airlines,90,Armenia,Saint Martin (French part),3,772,6:16,2:14,22-Jul
+LATAM Airlines,44,Saint Barthélemy,Greenland,2,1148,17:32,2:58,7-Oct
+Conviasa,80,Malaysia,Malaysia,1,1272,0:03,13:13,27-Sep
+Viva Air Colombia,71,Côte d'Ivoire,United Arab Emirates,0,1020,21:01,10:31,12-Nov
+Insel Air,141,Guernsey,San Marino,1,1761,6:35,11:16,23-Aug
+LATAM Airlines,143,Norway,Guadeloupe,3,1441,17:03,8:06,26-Apr
+Aerolineas Argentinas Airlines,91,Egypt,United Kingdom,3,1897,0:00,13:30,11-Jan
+Alaska Airlines,65,Eritrea,Mongolia,0,502,14:48,16:02,2-Oct
+Air Canada,8,Paraguay,Ethiopia,3,243,7:10,10:26,11-Dec
+Alaska Airlines,48,Saint Martin (French part),Poland,2,429,15:02,8:40,28-Jun
+Azul Brazilian Airlines,43,Chad,Tuvalu,3,449,17:45,22:30,15-Feb
+Conviasa,33,Costa Rica,Indonesia,0,603,22:49,0:56,15-Oct
+TAME,78,Antigua and Barbuda,Mauritania,0,1272,13:15,5:19,8-Feb
+Línea Aérea Amaszonas,110,Grenada,Samoa,2,211,22:23,14:29,20-Feb
+Gol Transportes Aéreos,104,Anguilla,Viet Nam,3,1791,17:00,7:42,6-Dec
+Línea Aérea Amaszonas,59,Turkey,Peru,1,529,11:03,11:38,26-Jun
+TAME,26,Guyana,Slovenia,2,1737,12:15,1:29,22-Mar
+Azul Brazilian Airlines,52,Iraq,Guyana,3,1066,13:33,0:33,8-Oct
+Viva Air Colombia,112,Somalia,New Caledonia,3,298,18:15,6:55,21-Sep
+LATAM Airlines,62,Montserrat,Estonia,0,1003,22:15,18:17,15-Nov
+LATAM Airlines,47,Micronesia Federated States of,Togo,0,428,11:55,21:37,15-Aug
+LATAM Airlines,84,Faroe Islands,Korea Democratic People's Republic of,2,289,2:22,21:15,11-May
+Avianca Airlines,40,Nepal,Cocos (Keeling) Islands,3,906,17:24,2:46,9-Nov
+TAME,23,Curaçao,Tanzania United Republic of,3,1434,1:45,17:45,28-May
+TAME,17,Cuba,Uruguay,1,429,18:55,24:48:00,20-Dec
+Viva Air Colombia,136,Sint Maarten (Dutch part),Ecuador,1,553,16:28,4:04,23-Oct
+Air Canada,88,Congo,Tokelau,1,663,16:07,13:22,25-Mar
+Gol Transportes Aéreos,138,Bonaire Sint Eustatius and Saba,El Salvador,3,352,4:11,4:36,2-Nov
+Avianca Airlines,6,Mayotte,Dominica,2,1819,9:54,16:54,4-Nov
+TAME,117,Albania,Saint Pierre and Miquelon,0,1997,20:01,7:00,2-Feb
+Insel Air,36,Slovenia,Cook Islands,2,1794,20:34,10:59,10-Aug
+Línea Aérea Amaszonas,1,Iraq,Hungary,3,306,10:10,9:32,29-Sep
+Copa Airlines,85,Switzerland,New Zealand,1,1652,22:53,12:52,26-Aug
+Insel Air,101,Saint Vincent and the Grenadines,Suriname,1,705,0:40,21:53,9-Aug
+Conviasa,76,Tajikistan,Honduras,3,1725,2:01,19:53,8-May
+Línea Aérea Amaszonas,113,Benin,Solomon Islands,1,397,9:36,20:41,16-Jan
+Gol Transportes Aéreos,82,Sao Tome and Principe,Iraq,1,1545,15:46,19:51,6-Mar
+Viva Air Colombia,16,Nicaragua,Macao,2,588,1:46,14:36,26-Oct
+Copa Airlines,66,Mexico,Tokelau,1,1052,14:20,18:01,7-Jan
+LATAM Airlines,60,Tanzania United Republic of,Algeria,1,1303,20:50,3:11,2-Apr
+Air Canada,17,China,Sierra Leone,2,1707,12:13,14:14,22-Apr
+Insel Air,77,Taiwan Province of China,Papua New Guinea,0,277,16:13,2:05,23-Mar
+Air Canada,41,Austria,South Georgia and the South Sandwich Islands,1,1588,1:08,16:29,10-Aug
+Azul Brazilian Airlines,13,Trinidad and Tobago,Saint Lucia,2,452,16:06,19:26,6-Jul
+Aeromexico,129,Solomon Islands,Philippines,0,1655,4:06,5:26,13-May
+Conviasa,118,Congo The Democratic Republic of the,Ethiopia,2,671,10:25,5:30,15-May
+LATAM Airlines,137,Myanmar,Aruba,3,348,23:01,9:39,29-Dec
+Copa Airlines,96,Korea Democratic People's Republic of,Bolivia Plurinational State of,0,1715,17:00,12:46,5-Feb
+Aerolineas Argentinas Airlines,1,Cape Verde,Pitcairn,0,1292,19:29,12:28,13-Jul
+Azul Brazilian Airlines,12,Saint Martin (French part),New Caledonia,1,983,2:36,6:48,2-Dec
+Viva Air Colombia,50,Luxembourg,South Georgia and the South Sandwich Islands,1,430,5:09,6:25,28-Mar
+Aeromexico,123,Aland Islands,Egypt,2,499,2:55,19:28,25-Oct
+Copa Airlines,62,Bouvet Island,Turkmenistan,1,570,23:06,24:33:00,10-Sep
+Línea Aérea Amaszonas,39,Falkland Islands (Malvinas),Bahamas,3,256,22:33,10:23,25-Nov
+Aerolineas Argentinas Airlines,10,Bonaire Sint Eustatius and Saba,Nigeria,2,907,15:02,14:02,12-Dec
+Boliviana de Aviación,46,Uganda,Sint Maarten (Dutch part),0,296,22:41,3:43,15-Nov
+LATAM Airlines,69,Mauritania,Faroe Islands,3,942,23:48,2:53,23-Jul
+Conviasa,29,South Africa,Sudan,2,1391,6:43,12:43,12-May
+Alaska Airlines,108,Romania,Saint Kitts and Nevis,2,210,9:38,8:57,16-Dec
+American Airlines,62,Afghanistan,Saint Lucia,2,1175,6:45,15:20,24-Aug
+TAME,11,Morocco,Sao Tome and Principe,1,1143,9:01,15:04,7-Apr
+Conviasa,128,Kenya,Pitcairn,0,509,11:24,2:28,4-Dec
+LATAM Airlines,134,Andorra,Belize,0,489,9:00,8:50,8-Jun
+Azul Brazilian Airlines,114,Mauritania,British Indian Ocean Territory,3,406,12:30,2:50,26-Dec
+American Airlines,53,French Southern Territories,Bahamas,3,1892,17:56,9:43,11-Feb
+American Airlines,44,Saint Pierre and Miquelon,Haiti,0,1706,12:47,13:16,30-Mar
+Copa Airlines,92,Algeria,Aland Islands,3,1094,1:02,24:24:00,16-Aug
+Aeromexico,34,Brazil,Sint Maarten (Dutch part),1,760,1:16,10:56,3-Aug
+Alaska Airlines,123,Guadeloupe,Seychelles,2,1411,8:38,7:38,12-Aug
+Insel Air,112,Morocco,Yemen,1,1631,13:12,17:11,23-Apr
+Gol Transportes Aéreos,5,Belarus,Macao,0,1647,23:25,17:07,3-Oct
+Aeromexico,138,Cuba,Jersey,2,1979,12:52,13:50,27-Aug
+Alaska Airlines,135,Pitcairn,Pitcairn,2,1444,19:49,19:39,21-Nov
+Viva Air Colombia,8,Panama,Bermuda,1,203,9:33,21:49,8-Jun
+Línea Aérea Amaszonas,147,Papua New Guinea,Portugal,1,351,15:44,11:12,27-Nov
+American Airlines,123,Virgin Islands U.S.,Monaco,3,1002,9:09,6:30,29-Jan
+Aeromexico,32,Yemen,Holy See (Vatican City State),1,356,11:04,18:27,12-May
+Conviasa,23,Qatar,Sint Maarten (Dutch part),1,877,16:16,2:17,20-Mar
+Aerolineas Argentinas Airlines,54,Saint Kitts and Nevis,Luxembourg,3,327,22:19,18:06,1-Aug
+LATAM Airlines,13,Saint Helena Ascension and Tristan da Cunha,Belize,1,1639,14:56,4:32,19-Mar
+Copa Airlines,104,Benin,Chad,3,1884,23:31,4:39,14-Sep
+Viva Air Colombia,131,Northern Mariana Islands,United States,3,373,1:48,18:58,10-Sep
+Gol Transportes Aéreos,118,Liberia,Guam,0,956,22:46,15:02,26-Apr
+TAME,136,Virgin Islands British,Saint Vincent and the Grenadines,1,261,15:56,6:45,25-Jul
+TAME,149,Hungary,Cocos (Keeling) Islands,0,1863,23:47,19:31,30-Aug
+Aerolineas Argentinas Airlines,123,Mali,Thailand,3,456,5:14,6:01,26-Oct
+LATAM Airlines,93,United States Minor Outlying Islands,Marshall Islands,2,1288,21:41,19:35,9-Apr
+Gol Transportes Aéreos,110,Paraguay,Anguilla,2,309,16:10,2:55,3-Dec
+Aerolineas Argentinas Airlines,142,Zambia,Sudan,3,1685,17:08,7:05,16-Jan
+LATAM Airlines,27,Grenada,Guyana,2,1219,3:56,8:55,10-Dec
+Azul Brazilian Airlines,90,Iran Islamic Republic of,Vanuatu,0,1675,7:07,23:59,27-Feb
+Línea Aérea Amaszonas,34,Ghana,Papua New Guinea,2,583,13:42,8:11,21-Mar
+Conviasa,104,Cuba,Philippines,0,1068,1:55,12:07,24-Jan
+Conviasa,49,Denmark,Martinique,1,1829,21:47,5:21,1-Oct
+American Airlines,122,Martinique,Hungary,0,1944,11:21,20:08,7-Jun
+Air Canada,142,Réunion,Belize,1,244,4:31,10:46,13-Feb
+American Airlines,57,Ukraine,Eritrea,2,987,18:28,14:59,25-Apr
+Línea Aérea Amaszonas,69,Egypt,Liberia,1,1620,13:42,20:11,10-Jan
+Aeromexico,95,Sierra Leone,Korea Republic of,1,617,6:27,18:10,2-May
+Conviasa,134,Trinidad and Tobago,Cayman Islands,1,1471,14:11,17:22,4-Jul
+Air Canada,103,El Salvador,South Africa,3,565,8:20,13:43,14-Jul
+Aerolineas Argentinas Airlines,86,Portugal,Senegal,1,1066,4:10,19:55,8-Nov
+American Airlines,58,Tonga,Iraq,1,1362,14:04,13:18,16-Aug
+Boliviana de Aviación,136,Namibia,Djibouti,2,1325,21:11,18:33,9-Mar
+Avianca Airlines,130,Mauritius,Greenland,0,1988,19:46,15:28,25-Sep
+Alaska Airlines,138,Ethiopia,Belgium,2,1505,15:09,10:52,6-Sep
+Azul Brazilian Airlines,48,Kyrgyzstan,Sierra Leone,2,1936,11:29,19:16,4-Apr
+Copa Airlines,30,Pitcairn,Uruguay,1,732,22:41,3:40,23-Aug
+Boliviana de Aviación,49,Sierra Leone,Saint Kitts and Nevis,2,1823,22:56,8:27,2-Feb
+Copa Airlines,68,Russian Federation,Congo The Democratic Republic of the,2,1218,21:39,2:39,4-Jan
+Azul Brazilian Airlines,109,Cayman Islands,Solomon Islands,1,262,6:49,11:17,27-Feb
+Gol Transportes Aéreos,150,Cyprus,Andorra,0,1115,4:48,22:19,9-Apr
+Viva Air Colombia,29,Thailand,Cape Verde,2,1083,19:31,6:44,4-Aug
+Conviasa,146,Tonga,Qatar,2,1939,19:21,0:35,10-Mar
+Conviasa,92,Gambia,Saint Vincent and the Grenadines,0,850,7:11,1:03,3-Jul
+Alaska Airlines,107,Cambodia,Albania,3,1161,23:56,3:01,13-Sep
+Alaska Airlines,44,Algeria,South Africa,2,1663,15:12,15:12,23-Nov
+Conviasa,29,Norway,Mauritania,0,583,7:11,15:15,14-May
+Air Canada,113,Tokelau,Micronesia Federated States of,0,704,16:11,24:46:00,16-Nov
+Avianca Airlines,123,Mayotte,Georgia,0,1254,2:01,24:35:00,13-Jan
+Azul Brazilian Airlines,118,Venezuela Bolivarian Republic of,Guinea,3,1460,5:11,5:07,7-Sep
+American Airlines,98,Portugal,Tunisia,1,928,23:19,3:38,26-Apr
+Copa Airlines,11,Kyrgyzstan,Uganda,0,1708,0:45,11:17,18-Nov
+Copa Airlines,148,China,Nicaragua,3,1397,9:54,20:47,14-Oct
+Air Canada,147,Lebanon,Hungary,3,1233,2:53,19:06,15-Sep
+Avianca Airlines,127,Burkina Faso,Luxembourg,2,1060,12:37,3:31,14-Feb
+Copa Airlines,113,Puerto Rico,Lesotho,3,1073,10:05,2:00,18-Oct
+Azul Brazilian Airlines,123,Réunion,Papua New Guinea,1,1501,15:38,16:29,27-Sep
+Aeromexico,29,Nicaragua,Swaziland,0,1136,7:10,1:22,30-May
+Viva Air Colombia,74,Gabon,India,3,1569,10:09,10:25,3-Jun
+Insel Air,86,Gabon,Benin,2,1229,9:56,5:14,29-Nov
+Viva Air Colombia,71,Hungary,Fiji,0,1601,16:50,9:25,7-Dec
+Línea Aérea Amaszonas,135,Malawi,Estonia,2,704,12:56,5:25,16-May
+Alaska Airlines,127,Azerbaijan,Fiji,2,1873,1:43,23:57,10-Apr
+Copa Airlines,73,Peru,Jordan,2,1388,13:41,1:30,2-Dec
+Copa Airlines,107,Guyana,Romania,1,1574,8:47,11:51,2-Aug
+Alaska Airlines,72,Switzerland,Hungary,0,1669,19:56,24:20:00,23-Apr
+Gol Transportes Aéreos,130,New Zealand,Qatar,3,440,24:10:00,10:33,24-May
+TAME,115,Pitcairn,American Samoa,0,545,14:08,20:31,14-Aug
+Conviasa,116,Iraq,Spain,3,1664,4:15,13:17,8-Dec
+LATAM Airlines,94,Belgium,Palau,3,423,22:11,24:19:00,19-Sep
+Avianca Airlines,115,Norway,Syrian Arab Republic,3,1883,0:59,2:16,29-Apr
+Boliviana de Aviación,111,Dominican Republic,Andorra,0,261,17:21,17:19,4-Dec
+Gol Transportes Aéreos,111,Pitcairn,Serbia,3,1172,16:10,23:16,4-Jun
+Línea Aérea Amaszonas,84,Cayman Islands,Afghanistan,2,1671,22:03,12:54,4-Nov
+Copa Airlines,78,United States,Antigua and Barbuda,0,1486,1:46,4:52,30-Mar
+Avianca Airlines,140,Luxembourg,Korea Republic of,1,948,19:38,3:55,24-Oct
+Air Canada,127,Belize,New Zealand,0,610,1:07,0:44,29-Sep
+Azul Brazilian Airlines,125,Moldova Republic of,Slovakia,2,224,21:37,16:02,1-Jan
+Avianca Airlines,19,Anguilla,Liechtenstein,0,1109,22:36,0:39,3-Mar
+Boliviana de Aviación,65,Libya,Armenia,1,693,18:49,20:41,3-Dec
+Air Canada,8,Albania,Haiti,2,1321,20:45,0:15,5-May
+Gol Transportes Aéreos,13,Colombia,Turkey,0,487,19:18,12:19,25-Dec
+Línea Aérea Amaszonas,58,Côte d'Ivoire,Myanmar,3,1706,16:03,21:56,19-Feb
+Air Canada,75,New Caledonia,Virgin Islands U.S.,2,922,0:55,20:24,3-Jan
+TAME,52,Eritrea,Cuba,1,1901,15:08,14:04,1-Sep
+LATAM Airlines,33,Estonia,Brunei Darussalam,0,995,24:42:00,0:25,30-Nov
+Insel Air,35,Guadeloupe,Palau,3,1374,13:48,18:22,30-Dec
+Boliviana de Aviación,111,Portugal,Tuvalu,3,603,9:53,10:42,18-Jul
+Copa Airlines,15,Macedonia Republic of,Samoa,1,1488,1:54,0:37,12-Aug
+Aeromexico,7,Holy See (Vatican City State),Marshall Islands,2,641,17:30,22:00,15-Sep
+TAME,21,Yemen,Austria,1,1851,5:50,6:42,8-Nov
+TAME,81,Serbia,Cocos (Keeling) Islands,1,1203,7:36,17:20,12-Oct
+Línea Aérea Amaszonas,109,Afghanistan,India,3,1489,24:29:00,20:22,26-Nov
+Aeromexico,17,Kiribati,Mexico,0,838,16:08,7:25,13-Jul
+Copa Airlines,33,Lesotho,Anguilla,2,1518,22:44,5:15,26-Nov
+Aeromexico,8,Guinea,Afghanistan,2,586,18:49,13:34,5-Jul
+Línea Aérea Amaszonas,12,Aland Islands,Angola,2,310,9:30,23:54,11-Jan
+Conviasa,50,Tajikistan,Mauritius,1,1672,11:32,1:19,7-Apr
+LATAM Airlines,32,Cameroon,New Zealand,3,1040,7:20,8:36,2-Jan
+TAME,2,Indonesia,Samoa,3,1908,20:04,16:42,5-Jan
+Azul Brazilian Airlines,89,Tunisia,Nepal,2,513,23:28,23:21,30-Jun
+Boliviana de Aviación,106,Kenya,Guinea-Bissau,3,860,15:47,9:15,28-Nov
+American Airlines,115,Hungary,French Polynesia,1,465,8:21,2:40,14-Jan
+Gol Transportes Aéreos,92,Swaziland,Mozambique,0,1670,3:10,7:41,22-Jun
+Línea Aérea Amaszonas,90,Virgin Islands U.S.,Peru,3,1657,4:50,6:51,7-May
+American Airlines,72,Malta,Bangladesh,0,1731,11:31,16:45,9-Jul
+Copa Airlines,18,Brunei Darussalam,Jamaica,3,1703,3:56,5:27,8-Feb
+Alaska Airlines,67,Togo,South Africa,1,1124,7:57,11:56,14-Jul
+Aeromexico,31,Iran Islamic Republic of,Guadeloupe,0,625,22:36,5:14,8-Oct
+TAME,68,Falkland Islands (Malvinas),Morocco,0,257,22:32,19:24,25-Apr
+LATAM Airlines,10,Montenegro,Thailand,3,1816,22:31,0:05,30-May
+American Airlines,81,Sao Tome and Principe,Tokelau,2,1573,14:09,7:05,15-Feb
+Avianca Airlines,69,Bulgaria,Uzbekistan,3,1840,19:08,9:06,3-Nov
+TAME,21,Tanzania United Republic of,Eritrea,1,1718,17:40,17:33,5-Sep
+Gol Transportes Aéreos,77,Wallis and Futuna,Myanmar,0,408,0:07,15:23,24-May
+Alaska Airlines,146,Saint Martin (French part),Saint Lucia,2,1818,24:05:00,15:25,23-Apr
+Boliviana de Aviación,30,Kazakhstan,Montserrat,3,1502,7:55,3:51,3-Jul
+Air Canada,75,Gambia,Seychelles,0,1007,16:09,10:56,24-May
+LATAM Airlines,43,Solomon Islands,Haiti,0,1549,24:11:00,19:13,24-Nov
+Copa Airlines,9,Oman,Seychelles,1,481,16:36,24:57:00,3-Nov
+Conviasa,54,Sint Maarten (Dutch part),Mauritania,3,1690,21:34,22:06,14-Apr
+Aerolineas Argentinas Airlines,16,Hungary,Bangladesh,1,1720,3:24,9:28,25-Sep
+LATAM Airlines,41,Tonga,Somalia,2,1844,12:27,15:14,27-Dec
+Aeromexico,66,Cyprus,Tokelau,3,1793,15:11,23:44,9-Dec
+Línea Aérea Amaszonas,24,Libya,Burundi,3,866,11:09,13:58,1-Oct
+Gol Transportes Aéreos,61,Ethiopia,South Sudan,0,1864,22:47,15:58,13-Dec
+Azul Brazilian Airlines,73,Turkey,Singapore,2,701,8:12,1:36,9-Jun
+Aeromexico,42,Portugal,Niger,2,523,21:57,8:12,8-Feb
+Alaska Airlines,111,Nicaragua,Turkey,1,366,13:53,23:22,10-Apr
+TAME,65,Macedonia Republic of,Tuvalu,0,1618,16:38,24:26:00,20-Oct
+Línea Aérea Amaszonas,96,Rwanda,Vanuatu,2,697,3:45,1:15,18-Jun
+American Airlines,14,Burkina Faso,Mayotte,3,1636,20:56,18:34,3-Jul
+TAME,113,Bangladesh,Uzbekistan,2,727,14:40,10:39,24-Jul
+Azul Brazilian Airlines,111,Kazakhstan,United States Minor Outlying Islands,3,1210,1:20,12:26,23-Jun
+Conviasa,48,Burkina Faso,Holy See (Vatican City State),2,365,17:33,2:37,2-Jun
+TAME,61,Norway,Uruguay,1,623,17:49,19:08,9-Sep
+LATAM Airlines,79,Tokelau,Panama,2,1909,5:02,6:26,22-Apr
+Aeromexico,57,Liberia,Congo The Democratic Republic of the,1,380,4:22,1:51,23-Aug
+American Airlines,2,China,Egypt,3,379,17:14,23:59,8-Oct
+Gol Transportes Aéreos,113,Denmark,Trinidad and Tobago,1,783,19:24,17:32,17-Mar
+LATAM Airlines,63,Jordan,Costa Rica,3,1282,5:54,15:14,30-Aug
+Línea Aérea Amaszonas,141,Austria,Svalbard and Jan Mayen,1,1299,7:58,23:08,6-Aug
+LATAM Airlines,11,Malaysia,Syrian Arab Republic,1,1686,19:53,24:05:00,21-Feb
+Copa Airlines,79,Panama,American Samoa,0,379,18:40,15:11,24-Mar
+Azul Brazilian Airlines,6,Slovenia,Papua New Guinea,0,959,7:06,6:36,28-Apr
+Copa Airlines,29,Suriname,Bermuda,1,1321,21:45,14:53,15-Jul
+Línea Aérea Amaszonas,109,Lesotho,Mali,2,1910,8:11,14:25,10-Feb
+Alaska Airlines,30,Brazil,Namibia,3,1304,7:08,17:12,7-Sep
+Azul Brazilian Airlines,43,Andorra,Viet Nam,0,462,21:34,11:37,2-Nov
+Azul Brazilian Airlines,43,Bonaire Sint Eustatius and Saba,Tanzania United Republic of,0,489,12:04,10:36,28-Sep
+Azul Brazilian Airlines,113,Papua New Guinea,Vanuatu,1,882,10:19,17:27,29-Jun
+Boliviana de Aviación,126,Mayotte,Philippines,2,917,17:54,17:00,11-Dec
+LATAM Airlines,71,Afghanistan,Belgium,2,1927,21:16,24:00:00,15-Oct
+Boliviana de Aviación,143,Saint Kitts and Nevis,Macao,3,1507,23:40,1:26,17-Oct
+LATAM Airlines,51,Svalbard and Jan Mayen,United Arab Emirates,3,1217,12:05,16:07,16-Dec
+Copa Airlines,83,Portugal,Hungary,0,363,8:15,6:13,25-Oct
+Viva Air Colombia,97,Côte d'Ivoire,Lao People's Democratic Republic,0,552,18:38,14:40,14-Dec
+TAME,94,Paraguay,Zambia,2,1863,3:57,7:20,26-Oct
+Alaska Airlines,25,France,Mozambique,1,242,24:24:00,20:49,29-Aug
+Air Canada,59,Saint Helena Ascension and Tristan da Cunha,Iran Islamic Republic of,1,1412,11:08,2:48,14-Nov
+Línea Aérea Amaszonas,90,Norway,Togo,1,1235,8:22,15:50,24-Oct
+American Airlines,55,Sint Maarten (Dutch part),Honduras,2,840,5:51,19:39,14-Mar
+American Airlines,101,Virgin Islands U.S.,Holy See (Vatican City State),2,1240,16:27,20:17,29-Jan
+American Airlines,65,San Marino,South Georgia and the South Sandwich Islands,0,1816,0:29,13:31,5-Apr
+Insel Air,71,Northern Mariana Islands,Jordan,3,1251,9:47,17:26,30-Oct
+Insel Air,44,Djibouti,Tunisia,0,1348,17:20,10:27,8-Jan
+Copa Airlines,142,Bosnia and Herzegovina,Jordan,0,1254,11:01,9:22,10-Nov
+Gol Transportes Aéreos,85,Mauritania,Togo,0,1834,3:42,5:51,20-Jul
+LATAM Airlines,74,Oman,Serbia,2,1023,7:26,12:22,15-Jul
+Viva Air Colombia,113,Equatorial Guinea,Netherlands,1,800,7:04,23:13,27-Aug
+Azul Brazilian Airlines,24,Heard Island and McDonald Islands,Egypt,1,1047,24:23:00,23:40,20-Jun
+Línea Aérea Amaszonas,17,Gabon,Fiji,0,1937,3:06,5:47,18-Apr
+Aeromexico,68,Saint Pierre and Miquelon,Switzerland,2,1074,15:25,7:45,30-Aug
+Azul Brazilian Airlines,95,Malaysia,Iceland,1,1473,3:04,7:39,19-Oct
+Viva Air Colombia,149,Niue,Austria,0,1174,4:56,23:06,23-Jun
+Avianca Airlines,39,Papua New Guinea,Spain,2,1110,4:12,7:09,29-Nov
+TAME,10,Mexico,Mexico,3,1507,17:06,0:11,9-Nov
+Aeromexico,125,Gabon,Maldives,0,1932,1:43,13:15,16-Oct
+Alaska Airlines,106,Uruguay,Moldova Republic of,0,1246,17:32,5:56,1-Oct
+Air Canada,71,Macedonia Republic of,Pitcairn,3,1331,8:17,3:55,18-Jun
+LATAM Airlines,81,Bulgaria,Cameroon,0,616,20:07,8:35,11-Jan
+LATAM Airlines,78,Russian Federation,Costa Rica,2,235,3:28,18:38,27-Aug
+Insel Air,29,United States Minor Outlying Islands,Grenada,2,1072,5:00,19:50,28-Nov
+American Airlines,81,Mauritania,Mali,1,470,21:55,10:07,2-Feb
+Azul Brazilian Airlines,86,Georgia,Colombia,0,617,9:30,20:22,19-May
+Aeromexico,120,Jersey,Macedonia Republic of,3,1932,14:25,11:05,21-Aug
+Air Canada,58,Finland,Antarctica,2,1457,4:53,12:15,22-Dec
+American Airlines,45,Tonga,Sao Tome and Principe,1,944,10:48,3:26,13-Nov
+TAME,106,Australia,Lao People's Democratic Republic,0,988,11:21,8:05,11-Jun
+American Airlines,121,Marshall Islands,Cambodia,3,1507,2:56,4:00,11-May
+Aeromexico,45,Botswana,Puerto Rico,0,415,3:14,22:57,5-Jul
+Azul Brazilian Airlines,118,Kiribati,Yemen,2,1307,21:00,20:45,15-Mar
+American Airlines,72,Namibia,South Sudan,2,1074,20:06,8:51,10-Jul
+Avianca Airlines,5,Gibraltar,Palau,3,1629,19:52,5:45,8-Mar
+Aeromexico,49,Dominican Republic,Saint Barthélemy,3,670,16:28,11:41,3-Jan
+Azul Brazilian Airlines,66,French Southern Territories,Montenegro,3,1141,0:13,14:58,24-Mar
+TAME,8,Rwanda,Greenland,2,305,15:37,11:57,7-Aug
+Aerolineas Argentinas Airlines,62,Dominica,Venezuela Bolivarian Republic of,2,1764,15:15,23:09,30-Apr
+American Airlines,90,Brazil,Greece,1,1272,16:20,6:40,8-Aug
+Insel Air,75,Montenegro,Lao People's Democratic Republic,2,1739,1:32,20:17,13-Sep
+Viva Air Colombia,3,Micronesia Federated States of,Niger,0,373,22:31,4:11,21-Jan
+Aeromexico,98,Bonaire Sint Eustatius and Saba,Gambia,0,417,3:46,1:53,17-Jul
+American Airlines,131,Palau,Thailand,2,1435,21:20,19:34,13-Oct
+Aerolineas Argentinas Airlines,101,Lebanon,Holy See (Vatican City State),0,828,15:07,13:32,18-Sep
+Boliviana de Aviación,74,Greenland,Isle of Man,0,1473,6:49,23:39,8-Jul
+Air Canada,64,Switzerland,Angola,0,750,14:10,21:11,30-Oct
+Aerolineas Argentinas Airlines,125,Albania,Uruguay,1,359,4:32,1:39,22-Jan
+TAME,3,Tunisia,Algeria,1,1322,5:55,21:36,10-Oct
+Viva Air Colombia,9,Sint Maarten (Dutch part),Guatemala,0,231,13:47,6:33,11-Apr
+Viva Air Colombia,145,Slovakia,Peru,0,1838,12:01,8:44,6-Jul
+Boliviana de Aviación,79,United States,Lebanon,3,927,20:18,7:47,23-May
+Insel Air,55,Maldives,Lebanon,2,409,24:57:00,10:22,19-Oct
+Viva Air Colombia,119,Martinique,Angola,3,489,23:19,7:46,23-Oct
+TAME,36,Malawi,Tokelau,1,290,22:58,6:43,29-Sep
+Alaska Airlines,68,Jamaica,British Indian Ocean Territory,1,1257,0:51,2:42,6-Jun
+Alaska Airlines,25,Antigua and Barbuda,Myanmar,1,1607,12:03,16:10,21-Aug
+Línea Aérea Amaszonas,87,Montenegro,Cameroon,3,1416,5:13,6:24,7-Jan
+Gol Transportes Aéreos,94,Guadeloupe,Mozambique,0,840,14:54,0:20,11-Feb
+Viva Air Colombia,14,Pitcairn,United Arab Emirates,1,1466,16:01,21:43,20-Mar
+Insel Air,31,Fiji,New Caledonia,1,353,1:19,24:56:00,20-Oct
+Gol Transportes Aéreos,141,Kazakhstan,Japan,3,1508,18:33,8:48,15-Jan
+American Airlines,94,Togo,Gibraltar,0,1732,1:01,24:38:00,29-May
+American Airlines,44,Ghana,Nicaragua,3,222,17:28,17:00,4-Nov
+Copa Airlines,86,United Kingdom,Iraq,2,325,21:25,20:43,4-Oct
+Alaska Airlines,79,Mali,Bonaire Sint Eustatius and Saba,2,632,22:06,1:06,9-Jun
+Air Canada,109,Sweden,Bangladesh,1,441,13:47,1:23,18-Sep
+Alaska Airlines,123,American Samoa,Brunei Darussalam,1,397,0:40,9:55,14-Feb
+Copa Airlines,95,Guadeloupe,Taiwan Province of China,3,480,22:49,20:38,27-Mar
+Aeromexico,123,Faroe Islands,Togo,3,999,23:13,24:11:00,28-Sep
+Alaska Airlines,68,Bangladesh,Lao People's Democratic Republic,0,585,21:59,13:48,9-Oct
+Air Canada,39,Lebanon,Sudan,2,1399,17:02,3:44,30-Dec
+Alaska Airlines,10,Svalbard and Jan Mayen,Azerbaijan,3,1712,17:36,7:19,20-Jan
+American Airlines,105,Kenya,Nicaragua,2,1799,13:55,8:06,7-Aug
+Boliviana de Aviación,30,Saint Kitts and Nevis,Bhutan,0,930,1:04,23:59,6-Jul
+Conviasa,132,Argentina,Senegal,3,854,13:33,20:26,29-Oct
+Avianca Airlines,139,French Southern Territories,Hungary,1,1087,21:11,4:39,6-Feb
+Insel Air,126,Saint Pierre and Miquelon,Equatorial Guinea,3,913,15:16,0:21,17-Jan
+Aerolineas Argentinas Airlines,1,Trinidad and Tobago,Palau,0,374,20:42,17:21,26-Jun
+Insel Air,69,Saint Lucia,Croatia,1,1993,7:34,5:35,24-Sep
+Viva Air Colombia,84,Réunion,Sao Tome and Principe,3,1640,9:39,4:14,27-Jan
+Air Canada,128,Venezuela Bolivarian Republic of,Spain,0,1685,14:03,8:10,27-Mar
+Conviasa,138,Belgium,Marshall Islands,0,1751,2:41,20:50,17-Mar
+Línea Aérea Amaszonas,74,Bolivia Plurinational State of,Qatar,1,303,7:59,5:57,15-Aug
+LATAM Airlines,143,Saudi Arabia,Bahamas,2,811,2:35,9:25,9-Jan
+TAME,67,British Indian Ocean Territory,Cocos (Keeling) Islands,3,1185,11:46,12:52,27-Dec
+Copa Airlines,6,Jersey,Liechtenstein,1,1845,22:28,8:31,5-Dec
+Aerolineas Argentinas Airlines,71,Bolivia Plurinational State of,Korea Republic of,3,1248,19:59,11:44,13-Oct
+Insel Air,27,Malaysia,Montenegro,1,1907,5:57,6:20,12-Jul
+Aerolineas Argentinas Airlines,132,Swaziland,San Marino,3,1632,14:32,17:21,18-Jan
+TAME,36,Zambia,Iran Islamic Republic of,2,1395,8:23,21:07,26-Mar
+Gol Transportes Aéreos,69,Martinique,Cook Islands,0,912,23:23,2:02,8-Jan
+Azul Brazilian Airlines,95,Rwanda,Georgia,3,825,20:05,23:54,22-May
+Gol Transportes Aéreos,105,Libya,Kenya,0,1484,24:52:00,10:48,18-Jan
+Azul Brazilian Airlines,5,Korea Democratic People's Republic of,Taiwan Province of China,3,513,17:39,12:18,8-Feb
+Aeromexico,67,Guam,Slovenia,1,584,7:21,5:37,9-Oct
+Alaska Airlines,113,Falkland Islands (Malvinas),Viet Nam,0,993,20:54,22:55,20-Jan
+Alaska Airlines,59,Fiji,Libya,2,1761,5:46,21:02,18-May
+Avianca Airlines,35,Bouvet Island,Congo,3,838,9:28,9:56,26-Oct
+Boliviana de Aviación,66,Tokelau,Sweden,1,1831,0:08,16:21,18-Jun
+Línea Aérea Amaszonas,18,Costa Rica,Hong Kong,1,1994,12:06,6:04,23-Sep
+Gol Transportes Aéreos,55,Estonia,Saudi Arabia,3,1248,8:50,2:23,11-Apr
+Aerolineas Argentinas Airlines,130,Slovakia,Oman,3,1681,4:37,3:22,8-Apr
+Boliviana de Aviación,31,Eritrea,Vanuatu,1,556,17:52,24:40:00,12-Oct
+Insel Air,134,Sierra Leone,Bahamas,0,1624,6:45,22:14,1-Jun
+LATAM Airlines,3,New Caledonia,United States,0,447,5:07,15:55,17-Nov
+Boliviana de Aviación,139,Marshall Islands,Cameroon,2,1333,1:41,15:12,11-Mar
+LATAM Airlines,100,Antigua and Barbuda,Burundi,3,495,23:32,7:03,9-May
+Boliviana de Aviación,147,Congo,India,0,1148,4:50,10:21,18-Dec
+Gol Transportes Aéreos,103,French Southern Territories,Suriname,0,1744,21:31,15:00,11-Sep
+American Airlines,35,Malta,Mexico,3,1574,9:48,0:00,10-Mar
+LATAM Airlines,69,Uruguay,Norway,2,229,4:20,23:29,1-Jun
+Gol Transportes Aéreos,140,Morocco,Lao People's Democratic Republic,2,322,11:09,5:36,4-Jun
+Viva Air Colombia,110,Dominica,Somalia,2,1471,7:26,13:13,9-Oct
+Air Canada,7,Czech Republic,Viet Nam,0,624,4:46,4:10,29-May
+TAME,118,India,Congo The Democratic Republic of the,3,1365,2:45,2:23,20-Jul
+Copa Airlines,106,Iraq,Cyprus,1,976,22:37,11:29,9-Nov
+Viva Air Colombia,73,Iceland,Norfolk Island,3,546,2:02,21:36,3-Jul
+Línea Aérea Amaszonas,23,Bulgaria,Jamaica,0,1025,9:31,9:04,25-Mar
+Boliviana de Aviación,18,Singapore,Jersey,1,1314,8:35,14:09,7-Jan
+Copa Airlines,106,Luxembourg,Cayman Islands,1,763,4:58,2:34,4-Apr
+Air Canada,102,Cyprus,Portugal,3,215,21:27,9:57,23-Mar
+LATAM Airlines,89,Fiji,Iraq,2,805,8:50,1:27,17-Oct
+Gol Transportes Aéreos,116,Saint Lucia,Tonga,3,638,6:11,20:47,29Feb
+American Airlines,79,Canada,San Marino,3,1980,14:34,12:34,12-May
+Aerolineas Argentinas Airlines,90,Burundi,Pakistan,2,1305,10:46,11:13,29-Sep
+Copa Airlines,11,Syrian Arab Republic,Tajikistan,1,1264,19:05,23:45,4-Apr
+Alaska Airlines,88,Russian Federation,Saint Vincent and the Grenadines,0,1520,3:30,21:34,23-Jun
+Azul Brazilian Airlines,99,Korea Republic of,Falkland Islands (Malvinas),1,1208,1:12,8:30,3-Aug
+Azul Brazilian Airlines,137,Malawi,Bouvet Island,3,1407,2:52,9:48,1-Jul
+Air Canada,59,Somalia,Monaco,1,1601,12:16,22:20,18-Jan
+Viva Air Colombia,38,Greece,Romania,0,1345,2:58,14:36,15-Dec
+Alaska Airlines,11,Saudi Arabia,Argentina,3,1077,18:19,10:09,1-Aug
+Azul Brazilian Airlines,86,Guadeloupe,Lao People's Democratic Republic,1,675,24:51:00,10:59,20-Jul
+Aeromexico,129,Iceland,French Guiana,1,1289,1:48,4:55,16-Jul
+Air Canada,58,Norway,Liberia,3,602,4:32,21:14,4-Feb
+Boliviana de Aviación,97,Eritrea,Ethiopia,1,1775,9:44,20:40,9-Jan
+TAME,146,Slovakia,Gambia,0,265,10:24,19:25,21-Aug
+Boliviana de Aviación,87,Iceland,Lesotho,0,1657,8:12,12:34,16-Aug
+Air Canada,119,Angola,Hong Kong,2,1600,23:24,0:55,12-May
+Air Canada,53,Hungary,Colombia,0,1182,10:19,8:36,1-Feb
+Avianca Airlines,109,Netherlands,Côte d'Ivoire,1,1287,11:05,3:14,18-Sep
+LATAM Airlines,34,Kazakhstan,Slovenia,0,627,22:49,6:27,28-Sep
+Aeromexico,74,Macedonia Republic of,Malta,1,696,18:16,19:54,16-May
+Aerolineas Argentinas Airlines,86,Ukraine,Afghanistan,0,950,12:23,21:15,23-Jan
+Gol Transportes Aéreos,105,Cocos (Keeling) Islands,Honduras,2,1228,2:27,16:37,20-Aug
+Viva Air Colombia,68,Malaysia,Tokelau,2,1855,2:41,5:04,3-Aug
+LATAM Airlines,1,Hong Kong,Sao Tome and Principe,0,1109,22:30,18:20,17-Oct
+Aeromexico,31,Palau,Gibraltar,1,976,16:41,14:22,9-Sep
+TAME,45,Botswana,Mauritania,1,1374,18:06,4:04,19-Nov
+TAME,39,Serbia,Lithuania,2,1409,12:45,10:01,16-Aug
+Gol Transportes Aéreos,75,Azerbaijan,Niue,3,266,13:59,3:12,26-Nov
+Viva Air Colombia,102,Togo,Estonia,2,297,10:54,24:56:00,17-Mar
+TAME,80,Papua New Guinea,Haiti,0,1000,4:10,10:17,19-Jun
+Aeromexico,85,India,Bonaire Sint Eustatius and Saba,3,1933,23:45,22:19,24-Sep
+Boliviana de Aviación,101,Kenya,Wallis and Futuna,2,407,0:23,15:31,18-Jan
+TAME,117,Albania,Tanzania United Republic of,2,1813,23:35,9:20,19-Aug
+Avianca Airlines,121,Pitcairn,Wallis and Futuna,1,1903,9:08,11:47,5-Sep
+Aerolineas Argentinas Airlines,17,Togo,American Samoa,0,1887,15:03,15:56,3-Jun
+Copa Airlines,11,New Zealand,Guadeloupe,3,520,5:58,1:10,28-Dec
+Azul Brazilian Airlines,67,Croatia,Antarctica,0,1027,10:22,16:14,17-May
+Insel Air,83,Burkina Faso,Greenland,1,1995,5:24,8:18,4-Mar
+Insel Air,133,Bulgaria,Brazil,0,420,3:15,13:32,17-Jan
+LATAM Airlines,125,British Indian Ocean Territory,Angola,2,1734,1:10,21:20,24-Jan
+Boliviana de Aviación,31,Denmark,Luxembourg,0,915,7:15,0:30,6-Jun
+LATAM Airlines,42,United Arab Emirates,Mexico,3,1672,6:42,20:21,1-Apr
+LATAM Airlines,8,Yemen,Malta,0,828,21:56,21:24,11-Jan
+LATAM Airlines,70,Italy,Lao People's Democratic Republic,0,1465,0:59,0:03,28-Aug
+Gol Transportes Aéreos,3,Greenland,Turkmenistan,3,1836,15:33,12:57,29-Dec
+Conviasa,3,Ireland,Tokelau,3,1403,2:33,19:14,18-Mar
+Boliviana de Aviación,9,Finland,Uzbekistan,2,1877,2:23,8:23,28-Sep
+TAME,140,Turkey,Nicaragua,1,1086,15:12,15:49,28-Apr
+TAME,67,Comoros,Russian Federation,0,540,20:30,3:44,19-Jun
+Aerolineas Argentinas Airlines,112,Gambia,Guernsey,1,943,18:17,22:51,17-Jun
+Alaska Airlines,78,Morocco,Macedonia Republic of,2,1448,18:42,13:57,18-Jun
+LATAM Airlines,47,Anguilla,Spain,2,1834,0:47,13:59,19-Nov
+LATAM Airlines,101,Congo The Democratic Republic of the,Hong Kong,0,515,16:17,15:40,23-Nov
+Azul Brazilian Airlines,111,Guatemala,New Caledonia,3,341,3:43,15:47,24-Sep
+LATAM Airlines,63,Angola,Barbados,0,909,6:32,4:35,21-May
+Aerolineas Argentinas Airlines,140,Anguilla,United Kingdom,2,830,5:44,22:36,6-Jun
+Air Canada,89,Korea Republic of,Poland,0,1942,23:46,24:33:00,18-Mar
+Alaska Airlines,20,Andorra,Malawi,0,1391,8:48,7:49,8-Jan
+Avianca Airlines,96,Barbados,South Africa,1,620,5:09,17:43,15-Apr
+American Airlines,82,Bulgaria,Lebanon,2,1494,13:55,12:39,23-Nov
+Air Canada,60,Slovakia,Bouvet Island,2,1065,2:32,10:29,25-Apr
+American Airlines,132,Bahrain,Bonaire Sint Eustatius and Saba,1,907,24:44:00,13:13,5-Aug
+Insel Air,34,Lithuania,Taiwan Province of China,2,1416,17:22,11:52,2-Aug
+American Airlines,45,Timor-Leste,Aland Islands,3,929,10:42,23:34,19-Nov
+Viva Air Colombia,17,Swaziland,Malawi,2,903,24:28:00,0:11,18-Jul
+Azul Brazilian Airlines,132,Greece,Armenia,2,1925,5:20,5:29,23-Feb
+Copa Airlines,106,Tuvalu,Korea Republic of,0,1607,17:00,20:44,4-Aug
+LATAM Airlines,11,Brunei Darussalam,United Arab Emirates,1,1130,15:35,8:10,25-Jan
+American Airlines,116,Saint Pierre and Miquelon,Saint Vincent and the Grenadines,3,588,4:58,2:50,1-Dec
+Viva Air Colombia,64,Serbia,Ecuador,1,1136,16:43,7:31,23-Nov
+Air Canada,41,Sudan,Tajikistan,0,679,21:41,5:04,18-Sep
+Aerolineas Argentinas Airlines,89,Cyprus,Isle of Man,0,1525,10:19,17:17,20-Jul
+Gol Transportes Aéreos,98,Saudi Arabia,New Caledonia,0,1171,20:45,16:10,29-Jun
+Conviasa,94,Panama,Peru,1,1978,5:00,7:03,4-Nov
+Copa Airlines,111,Belize,Luxembourg,2,822,20:17,4:06,6-Feb
+Azul Brazilian Airlines,33,Jordan,Iraq,2,665,24:03:00,12:13,9-Oct
+Avianca Airlines,83,Lesotho,Ghana,2,1937,22:08,18:25,28-Nov
+Viva Air Colombia,68,Pitcairn,Hungary,2,1358,21:58,24:35:00,27-Apr
+Viva Air Colombia,29,Egypt,Czech Republic,0,1997,7:57,18:46,10-Mar
+Copa Airlines,62,Niger,Venezuela Bolivarian Republic of,0,282,13:05,24:58:00,29Feb
+Conviasa,34,Latvia,Saint Kitts and Nevis,3,561,20:56,20:40,30-Aug
+Aeromexico,112,Venezuela Bolivarian Republic of,Indonesia,2,638,20:53,7:28,12-Oct
+Alaska Airlines,90,Saint Lucia,Lesotho,3,298,3:32,11:51,15-Sep
+Alaska Airlines,66,Nicaragua,Cayman Islands,0,1790,10:52,19:18,4-May
+Conviasa,36,Tuvalu,San Marino,1,1799,9:59,2:18,2-May
+LATAM Airlines,11,United Arab Emirates,Libya,1,1041,13:14,20:51,6-Jun
+Línea Aérea Amaszonas,77,Tanzania United Republic of,Pitcairn,3,1646,18:31,8:54,15-Aug
+Insel Air,74,Iceland,Chile,0,470,23:06,20:00,12-Nov
+Línea Aérea Amaszonas,95,Gabon,Cameroon,0,406,12:13,14:41,20-Mar
+LATAM Airlines,142,Georgia,Malta,0,1748,7:34,20:26,12-Sep
+Azul Brazilian Airlines,103,Macao,Saint Helena Ascension and Tristan da Cunha,2,278,11:32,9:12,15-Jun
+Alaska Airlines,126,Tajikistan,Togo,0,894,12:56,13:59,2-Oct
+Insel Air,80,Guam,British Indian Ocean Territory,1,1360,9:09,4:57,28-Oct
+Insel Air,124,Nauru,Nicaragua,3,282,13:22,13:52,25-Oct
+LATAM Airlines,144,Niger,Nauru,1,1152,2:34,6:46,30-Jan
+Copa Airlines,135,Norfolk Island,Anguilla,1,734,6:08,13:24,26-Jul
+Air Canada,87,Bermuda,Czech Republic,0,1446,14:31,9:36,5-Jun
+Boliviana de Aviación,115,American Samoa,Niger,1,1054,19:34,17:16,3-May
+Aeromexico,59,Nigeria,Cocos (Keeling) Islands,0,1244,19:42,10:30,29-Aug
+Copa Airlines,13,Mauritius,Holy See (Vatican City State),1,415,18:23,4:34,1-Aug
+Insel Air,2,Holy See (Vatican City State),Andorra,0,904,2:14,20:47,23-May
+American Airlines,67,Brazil,Hong Kong,3,1832,9:26,12:55,9-Sep
+Gol Transportes Aéreos,85,Poland,Isle of Man,3,1128,18:39,19:40,19-Jul
+Conviasa,4,Greenland,Comoros,0,1990,23:34,20:11,25-Jul
+Copa Airlines,32,Guadeloupe,Saint Lucia,2,1061,9:53,6:09,24-Mar
+TAME,39,Cayman Islands,Pitcairn,1,679,18:02,2:41,22-Oct
+Copa Airlines,111,Saint Lucia,Congo,0,1820,17:20,19:16,2-Feb
+Conviasa,77,United States Minor Outlying Islands,Uganda,1,253,9:16,3:24,14-Oct
+Aerolineas Argentinas Airlines,33,Central African Republic,Guadeloupe,0,1875,5:46,24:54:00,27-Jan
+TAME,80,Hong Kong,Wallis and Futuna,1,1970,0:23,0:33,25-May
+Insel Air,105,Honduras,Luxembourg,1,965,12:40,18:24,16-Oct
+Copa Airlines,70,American Samoa,Turkmenistan,2,1830,18:13,24:10:00,16-Feb
+Aeromexico,103,Gabon,Sweden,0,229,7:03,13:29,14-Dec
+Boliviana de Aviación,12,Macedonia Republic of,Finland,2,1463,11:47,22:21,21-Mar
+American Airlines,13,Tunisia,Mozambique,1,1627,10:18,14:53,8-Mar
+Insel Air,148,Anguilla,French Southern Territories,3,1698,20:39,16:55,3-Oct
+Boliviana de Aviación,119,Norway,Netherlands,2,1372,7:25,11:24,25-Mar
+Azul Brazilian Airlines,51,Bahamas,Vanuatu,0,323,6:09,2:52,12-Apr
+Copa Airlines,42,Angola,Andorra,2,1079,13:04,12:51,10-Mar
+Aerolineas Argentinas Airlines,78,Antarctica,Kiribati,2,1866,21:23,18:20,8-Jan
+Azul Brazilian Airlines,25,Liberia,Vanuatu,2,1209,7:49,0:16,3-Jul
+Gol Transportes Aéreos,107,Poland,Yemen,1,681,19:34,19:21,24-Nov
+Avianca Airlines,37,Moldova Republic of,Turkmenistan,0,1438,20:35,11:36,5-Jun
+Alaska Airlines,71,New Zealand,Kenya,3,1312,19:22,23:14,8-Sep
+Azul Brazilian Airlines,28,Curaçao,Pitcairn,2,1364,13:53,6:07,29-Oct
+Insel Air,137,British Indian Ocean Territory,Philippines,0,1290,8:26,18:14,5-Sep
+Air Canada,106,Mongolia,Timor-Leste,0,1586,2:00,23:17,28-Sep
+Boliviana de Aviación,123,Solomon Islands,Colombia,1,660,6:05,17:37,30-Apr
